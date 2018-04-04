@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res"/><source path="E:\TPMS_201702101329\TPMSNoBand1\app\build\generated\res\rs\debug"/><source path="E:\TPMS_201702101329\TPMSNoBand1\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="E:\TPMS_201702101329\TPMSNoBand1\app\src\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res"><file name="loading" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\anim\loading.xml" qualifiers="" type="anim"/><file name="main_value_view" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\anim\main_value_view.xml" qualifiers="" type="anim"/><file name="slide_left_in" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\anim\slide_left_in.xml" qualifiers="" type="anim"/><file name="slide_left_out" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\anim\slide_left_out.xml" qualifiers="" type="anim"/><file name="slide_right_in" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\anim\slide_right_in.xml" qualifiers="" type="anim"/><file name="slide_right_out" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\anim\slide_right_out.xml" qualifiers="" type="anim"/><file name="background_corner_round" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable\background_corner_round.xml" qualifiers="" type="drawable"/><file name="background_corner_round_bottom" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable\background_corner_round_bottom.xml" qualifiers="" type="drawable"/><file name="background_corner_round_top" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable\background_corner_round_top.xml" qualifiers="" type="drawable"/><file name="background_corner_shape" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable\background_corner_shape.xml" qualifiers="" type="drawable"/><file name="background_corner_shape1" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable\background_corner_shape1.xml" qualifiers="" type="drawable"/><file name="bg_edittext_focused" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable\bg_edittext_focused.xml" qualifiers="" type="drawable"/><file name="bg_edittext_normal" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable\bg_edittext_normal.xml" qualifiers="" type="drawable"/><file name="bg_gray_conner" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable\bg_gray_conner.xml" qualifiers="" type="drawable"/><file name="bg_white" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable\bg_white.xml" qualifiers="" type="drawable"/><file name="bg_white_conner" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable\bg_white_conner.xml" qualifiers="" type="drawable"/><file name="btn_about" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable\btn_about.xml" qualifiers="" type="drawable"/><file name="btn_back" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable\btn_back.xml" qualifiers="" type="drawable"/><file name="btn_cancel_bg" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable\btn_cancel_bg.xml" qualifiers="" type="drawable"/><file name="btn_home" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable\btn_home.xml" qualifiers="" type="drawable"/><file name="btn_setting" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable\btn_setting.xml" qualifiers="" type="drawable"/><file name="btn_theme" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable\btn_theme.xml" qualifiers="" type="drawable"/><file name="btn_theme_bg" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable\btn_theme_bg.xml" qualifiers="" type="drawable"/><file name="btn_theme_bg_" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable\btn_theme_bg_.xml" qualifiers="" type="drawable"/><file name="button_shape_cancel" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable\button_shape_cancel.xml" qualifiers="" type="drawable"/><file name="button_shape_confirm" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable\button_shape_confirm.xml" qualifiers="" type="drawable"/><file name="corners_bg" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable\corners_bg.xml" qualifiers="" type="drawable"/><file name="dialog_background" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable\dialog_background.xml" qualifiers="" type="drawable"/><file name="dialog_button_background" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable\dialog_button_background.xml" qualifiers="" type="drawable"/><file name="dialog_style" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable\dialog_style.xml" qualifiers="" type="drawable"/><file name="dialog_style1" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable\dialog_style1.xml" qualifiers="" type="drawable"/><file name="list_corner_round" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable\list_corner_round.xml" qualifiers="" type="drawable"/><file name="list_corner_round_bottom" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable\list_corner_round_bottom.xml" qualifiers="" type="drawable"/><file name="list_corner_round_top" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable\list_corner_round_top.xml" qualifiers="" type="drawable"/><file name="list_corner_shape" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable\list_corner_shape.xml" qualifiers="" type="drawable"/><file name="list_dialog_bg" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable\list_dialog_bg.xml" qualifiers="" type="drawable"/><file name="my_edittext" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable\my_edittext.xml" qualifiers="" type="drawable"/><file name="progress_large" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable\progress_large.xml" qualifiers="" type="drawable"/><file name="radio_selector" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable\radio_selector.xml" qualifiers="" type="drawable"/><file name="set_corner_round" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable\set_corner_round.xml" qualifiers="" type="drawable"/><file name="set_dialog" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable\set_dialog.xml" qualifiers="" type="drawable"/><file name="title_shape_back" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable\title_shape_back.xml" qualifiers="" type="drawable"/><file name="bg1" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-hdpi\bg1.png" qualifiers="hdpi-v4" type="drawable"/><file name="bg2" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-hdpi\bg2.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon_back_temperature" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-hdpi\icon_back_temperature.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon_left" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-hdpi\icon_left.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon_mark1" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-hdpi\icon_mark1.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon_right" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-hdpi\icon_right.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon_title_change_sence" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-hdpi\icon_title_change_sence.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon_title_change_tyre" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-hdpi\icon_title_change_tyre.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon_title_reset" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-hdpi\icon_title_reset.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon_title_temperature" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-hdpi\icon_title_temperature.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon_title_warn" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-hdpi\icon_title_warn.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher1" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-hdpi\ic_launcher1.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher2" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-hdpi\ic_launcher2.png" qualifiers="hdpi-v4" type="drawable"/><file name="newmain_bg" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-hdpi\newmain_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="newmain_bg_center" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-hdpi\newmain_bg_center.png" qualifiers="hdpi-v4" type="drawable"/><file name="newmain_bg_center_change" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-hdpi\newmain_bg_center_change.png" qualifiers="hdpi-v4" type="drawable"/><file name="newmain_car" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-hdpi\newmain_car.png" qualifiers="hdpi-v4" type="drawable"/><file name="purple_background" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-hdpi\purple_background.png" qualifiers="hdpi-v4" type="drawable"/><file name="right" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-hdpi\right.png" qualifiers="hdpi-v4" type="drawable"/><file name="simple_car" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-hdpi\simple_car.png" qualifiers="hdpi-v4" type="drawable"/><file name="tabhost_bg2" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-hdpi\tabhost_bg2.png" qualifiers="hdpi-v4" type="drawable"/><file name="tabhost_temp2" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-hdpi\tabhost_temp2.png" qualifiers="hdpi-v4" type="drawable"/><file name="value_view4" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-hdpi\value_view4.png" qualifiers="hdpi-v4" type="drawable"/><file name="wrong" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-hdpi\wrong.png" qualifiers="hdpi-v4" type="drawable"/><file name="right" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-ldpi\right.png" qualifiers="ldpi-v4" type="drawable"/><file name="wrong" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-ldpi\wrong.png" qualifiers="ldpi-v4" type="drawable"/><file name="app_entry_view" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\app_entry_view.jpg" qualifiers="mdpi-v4" type="drawable"/><file name="check" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\check.png" qualifiers="mdpi-v4" type="drawable"/><file name="check_" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\check_.png" qualifiers="mdpi-v4" type="drawable"/><file name="close" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\close.png" qualifiers="mdpi-v4" type="drawable"/><file name="close_conner" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\close_conner.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_back" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\icon_back.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_back_" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\icon_back_.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_reset" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\icon_reset.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_select_button" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\icon_select_button.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_support" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\icon_support.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_tp_high" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\icon_tp_high.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_tyre1" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\icon_tyre1.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_tyre2" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\icon_tyre2.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_tyre_change" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\icon_tyre_change.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_tyre_high" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\icon_tyre_high.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_tyre_low" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\icon_tyre_low.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_tyre_norm" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\icon_tyre_norm.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_tyre_sw" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\icon_tyre_sw.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_warn" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\icon_warn.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_warn_leakage" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\icon_warn_leakage.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_warn_phigh" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\icon_warn_phigh.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_warn_plow" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\icon_warn_plow.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_warn_thigh" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\icon_warn_thigh.png" qualifiers="mdpi-v4" type="drawable"/><file name="main_about" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\main_about.png" qualifiers="mdpi-v4" type="drawable"/><file name="main_about_" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\main_about_.png" qualifiers="mdpi-v4" type="drawable"/><file name="main_home" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\main_home.png" qualifiers="mdpi-v4" type="drawable"/><file name="main_home_" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\main_home_.png" qualifiers="mdpi-v4" type="drawable"/><file name="main_me1nu_" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\main_me1nu_.png" qualifiers="mdpi-v4" type="drawable"/><file name="main_men1u" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\main_men1u.png" qualifiers="mdpi-v4" type="drawable"/><file name="main_menu" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\main_menu.png" qualifiers="mdpi-v4" type="drawable"/><file name="main_menu2" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\main_menu2.png" qualifiers="mdpi-v4" type="drawable"/><file name="main_menu3" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\main_menu3.png" qualifiers="mdpi-v4" type="drawable"/><file name="main_menu3_" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\main_menu3_.png" qualifiers="mdpi-v4" type="drawable"/><file name="main_menu_" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\main_menu_.png" qualifiers="mdpi-v4" type="drawable"/><file name="main_setting" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\main_setting.png" qualifiers="mdpi-v4" type="drawable"/><file name="main_setting_" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\main_setting_.png" qualifiers="mdpi-v4" type="drawable"/><file name="succ" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-mdpi\succ.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher1" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xhdpi\ic_launcher1.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher2" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xhdpi\ic_launcher2.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_arrow" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\card_arrow.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="deng151" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\deng151.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="deng152" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\deng152.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="deng153" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\deng153.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="icon_blue" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\icon_blue.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="icon_brand" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\icon_brand.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="icon_button_cancel2" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\icon_button_cancel2.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="icon_button_cancel3" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\icon_button_cancel3.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="icon_button_confirm" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\icon_button_confirm.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="icon_button_confirm1" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\icon_button_confirm1.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="icon_carseries" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\icon_carseries.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="icon_code" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\icon_code.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="icon_copyright" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\icon_copyright.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="icon_email" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\icon_email.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="icon_language" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\icon_language.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="icon_light" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\icon_light.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="icon_loading" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\icon_loading.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="icon_name" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\icon_name.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="icon_nickname" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\icon_nickname.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="icon_productsn" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\icon_productsn.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="icon_radio_button" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\icon_radio_button.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="icon_record" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\icon_record.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="icon_record_scan" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\icon_record_scan.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="icon_register" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\icon_register.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="icon_setting" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\icon_setting.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="icon_specification" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\icon_specification.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="icon_sw" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\icon_sw.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="icon_theme" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\icon_theme.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="icon_title_button" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\icon_title_button.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="icon_title_button1" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\icon_title_button1.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="icon_tyre_leak" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\icon_tyre_leak.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="icon_tyre_maintain" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\icon_tyre_maintain.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="icon_warn_darrow" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\icon_warn_darrow.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="icon_warn_elow" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\icon_warn_elow.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="icon_warn_sbleak" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\icon_warn_sbleak.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="icon_warn_uarrow" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\icon_warn_uarrow.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="icon_years" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\icon_years.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="title_bg" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\drawable-xxhdpi\title_bg.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="aboutme_logview" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\aboutme_logview.xml" qualifiers="" type="layout"/><file name="aboutme_rightinfo" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\aboutme_rightinfo.xml" qualifiers="" type="layout"/><file name="aboutme_softreg_spinner" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\aboutme_softreg_spinner.xml" qualifiers="" type="layout"/><file name="act_setting_second" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\act_setting_second.xml" qualifiers="" type="layout"/><file name="app_entry_view" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\app_entry_view.xml" qualifiers="" type="layout"/><file name="bluethooth_setup" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\bluethooth_setup.xml" qualifiers="" type="layout"/><file name="changechuanganqi_large_two" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\changechuanganqi_large_two.xml" qualifiers="" type="layout"/><file name="display_viewsmallest" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\display_viewsmallest.xml" qualifiers="" type="layout"/><file name="first_act_test" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\first_act_test.xml" qualifiers="" type="layout"/><file name="group_list_item" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\group_list_item.xml" qualifiers="" type="layout"/><file name="group_list_item_tag" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\group_list_item_tag.xml" qualifiers="" type="layout"/><file name="group_list_item_title" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\group_list_item_title.xml" qualifiers="" type="layout"/><file name="guidance_activity" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\guidance_activity.xml" qualifiers="" type="layout"/><file name="list_type1" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\list_type1.xml" qualifiers="" type="layout"/><file name="list_type2" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\list_type2.xml" qualifiers="" type="layout"/><file name="list_type3" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\list_type3.xml" qualifiers="" type="layout"/><file name="list_type4" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\list_type4.xml" qualifiers="" type="layout"/><file name="list_type5" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\list_type5.xml" qualifiers="" type="layout"/><file name="list_type_carinfo" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\list_type_carinfo.xml" qualifiers="" type="layout"/><file name="list_type_recordview" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\list_type_recordview.xml" qualifiers="" type="layout"/><file name="message" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\message.xml" qualifiers="" type="layout"/><file name="number_picker_with_selector_wheel" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\number_picker_with_selector_wheel.xml" qualifiers="" type="layout"/><file name="pop_pressure" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\pop_pressure.xml" qualifiers="" type="layout"/><file name="pop_reset" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\pop_reset.xml" qualifiers="" type="layout"/><file name="pop_reset2" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\pop_reset2.xml" qualifiers="" type="layout"/><file name="pop_temperature" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\pop_temperature.xml" qualifiers="" type="layout"/><file name="pop_tip" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\pop_tip.xml" qualifiers="" type="layout"/><file name="pop_tip2" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\pop_tip2.xml" qualifiers="" type="layout"/><file name="pop_value_set" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\pop_value_set.xml" qualifiers="" type="layout"/><file name="preferences" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\preferences.xml" qualifiers="" type="layout"/><file name="setting" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\setting.xml" qualifiers="" type="layout"/><file name="setting_title" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\setting_title.xml" qualifiers="" type="layout"/><file name="setting_title2" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\setting_title2.xml" qualifiers="" type="layout"/><file name="set_custom_dialog" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\set_custom_dialog.xml" qualifiers="" type="layout"/><file name="set_datapicker_dialog" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\set_datapicker_dialog.xml" qualifiers="" type="layout"/><file name="set_item_dialog" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\set_item_dialog.xml" qualifiers="" type="layout"/><file name="set_password_dialog" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\set_password_dialog.xml" qualifiers="" type="layout"/><file name="set_simple_dialog" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\set_simple_dialog.xml" qualifiers="" type="layout"/><file name="set_verify_dialog" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\set_verify_dialog.xml" qualifiers="" type="layout"/><file name="set_wait_dialog" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\set_wait_dialog.xml" qualifiers="" type="layout"/><file name="set_wait_dialog1" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\set_wait_dialog1.xml" qualifiers="" type="layout"/><file name="spinner_shape" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\spinner_shape.xml" qualifiers="" type="layout"/><file name="theme_setting" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\theme_setting.xml" qualifiers="" type="layout"/><file name="wait_dialog" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout\wait_dialog.xml" qualifiers="" type="layout"/><file name="display_view" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout-800x480\display_view.xml" qualifiers="800x480" type="layout"/><file name="activity_connect" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout-land\activity_connect.xml" qualifiers="land" type="layout"/><file name="display_view" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout-land\display_view.xml" qualifiers="land" type="layout"/><file name="display_viewlarge" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout-land\display_viewlarge.xml" qualifiers="land" type="layout"/><file name="display_viewlargedpi15" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout-land\display_viewlargedpi15.xml" qualifiers="land" type="layout"/><file name="display_viewlargetwo" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout-land\display_viewlargetwo.xml" qualifiers="land" type="layout"/><file name="pop_conn" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout-land\pop_conn.xml" qualifiers="land" type="layout"/><file name="display_view" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout-land-1024x600\display_view.xml" qualifiers="land-1024x600" type="layout"/><file name="aboutme_rightinfoden15" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout-land-hdpi\aboutme_rightinfoden15.xml" qualifiers="land-hdpi-v4" type="layout"/><file name="act_setting_secondden15" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout-land-hdpi\act_setting_secondden15.xml" qualifiers="land-hdpi-v4" type="layout"/><file name="changechuanganqi_large" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout-land-hdpi\changechuanganqi_large.xml" qualifiers="land-hdpi-v4" type="layout"/><file name="changechuanganqi_largeden15" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout-land-hdpi\changechuanganqi_largeden15.xml" qualifiers="land-hdpi-v4" type="layout"/><file name="changechuanganqi_small" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout-land-hdpi\changechuanganqi_small.xml" qualifiers="land-hdpi-v4" type="layout"/><file name="change_type_large" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout-land-hdpi\change_type_large.xml" qualifiers="land-hdpi-v4" type="layout"/><file name="change_type_small" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout-land-hdpi\change_type_small.xml" qualifiers="land-hdpi-v4" type="layout"/><file name="dialog_main_moveback" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout-land-hdpi\dialog_main_moveback.xml" qualifiers="land-hdpi-v4" type="layout"/><file name="display_view" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout-land-hdpi\display_view.xml" qualifiers="land-hdpi-v4" type="layout"/><file name="display_viewsby854480" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout-land-hdpi\display_viewsby854480.xml" qualifiers="land-hdpi-v4" type="layout"/><file name="display_viewsmall" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout-land-hdpi\display_viewsmall.xml" qualifiers="land-hdpi-v4" type="layout"/><file name="list_type1den15" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout-land-hdpi\list_type1den15.xml" qualifiers="land-hdpi-v4" type="layout"/><file name="main_srcoll" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout-land-hdpi\main_srcoll.xml" qualifiers="land-hdpi-v4" type="layout"/><file name="main_srcollden15" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout-land-hdpi\main_srcollden15.xml" qualifiers="land-hdpi-v4" type="layout"/><file name="pop_conn" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout-land-hdpi\pop_conn.xml" qualifiers="land-hdpi-v4" type="layout"/><file name="pop_pressureden15" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout-land-hdpi\pop_pressureden15.xml" qualifiers="land-hdpi-v4" type="layout"/><file name="pop_temperatureden15" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout-land-hdpi\pop_temperatureden15.xml" qualifiers="land-hdpi-v4" type="layout"/><file name="pop_tip2den15" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout-land-hdpi\pop_tip2den15.xml" qualifiers="land-hdpi-v4" type="layout"/><file name="pop_value_setden15" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout-land-hdpi\pop_value_setden15.xml" qualifiers="land-hdpi-v4" type="layout"/><file name="settingden15" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout-land-hdpi\settingden15.xml" qualifiers="land-hdpi-v4" type="layout"/><file name="setting_titleden15" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout-land-hdpi\setting_titleden15.xml" qualifiers="land-hdpi-v4" type="layout"/><file name="set_custom_dialogden15" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout-land-hdpi\set_custom_dialogden15.xml" qualifiers="land-hdpi-v4" type="layout"/><file name="set_simple_dialogden15" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout-land-hdpi\set_simple_dialogden15.xml" qualifiers="land-hdpi-v4" type="layout"/><file name="set_wait_dialogden15" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\layout-land-hdpi\set_wait_dialogden15.xml" qualifiers="land-hdpi-v4" type="layout"/><file name="lb" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\raw\lb.mp3" qualifiers="" type="raw"/><file name="lf" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\raw\lf.mp3" qualifiers="" type="raw"/><file name="lowb" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\raw\lowb.mp3" qualifiers="" type="raw"/><file name="ns" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\raw\ns.mp3" qualifiers="" type="raw"/><file name="presshigh" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\raw\presshigh.mp3" qualifiers="" type="raw"/><file name="pressleak" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\raw\pressleak.mp3" qualifiers="" type="raw"/><file name="presslow" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\raw\presslow.mp3" qualifiers="" type="raw"/><file name="promptprocessnow" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\raw\promptprocessnow.mp3" qualifiers="" type="raw"/><file name="rb" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\raw\rb.mp3" qualifiers="" type="raw"/><file name="rf" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\raw\rf.mp3" qualifiers="" type="raw"/><file name="sound1" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\raw\sound1.mp3" qualifiers="" type="raw"/><file name="sound2" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\raw\sound2.mp3" qualifiers="" type="raw"/><file name="sound3" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\raw\sound3.mp3" qualifiers="" type="raw"/><file name="sound4" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\raw\sound4.mp3" qualifiers="" type="raw"/><file name="temphigh" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\raw\temphigh.mp3" qualifiers="" type="raw"/><file name="warn" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\raw\warn.mp3" qualifiers="" type="raw"/><file path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\values\arrays.xml" qualifiers=""><string-array name="tyreItem">
+	<item>左前轮</item>
+	<item>右前轮</item>
+	　
+	<item>左后轮</item>
+	<item>右后轮</item>
+</string-array><string-array name="SystemErrCode">
+	<item>成功</item>
+	<item>参数错误</item>
+	　　　　
+	<item>通信超时</item>
+	　　　　
+	<item>协议包XOR错误</item>
+	　　　　　
+	<item>空函数错误</item>
+	<item>协议头错误</item>
+	<item>*协议头错误</item>
+	<item>协议尾错误</item>
+	<item>协议长度错误</item>
+	<item>解密错误</item>
+	<item>握手失败</item>
+	<item>函数调用超时</item>
+	<item>模式错误</item>
+</string-array><string-array name="diaryLogCommand">
+	　　　　
+	<item>系统参数设置</item>
+	　　　 　
+	<item>系统参数获取</item>
+	<item>TPMS信息上报</item>
+</string-array><string-array name="ComunicationCommand">
+	　　　　
+	<item>双机握手</item>
+	　　　 　
+	<item>系统参数设置</item>
+	　　　 　
+	<item>系统参数获取</item>
+	　
+	<item>TPMS轮胎对调</item>
+	<item>TPMS信息上报</item>
+	<item>TPMS轮胎ID获取</item>
+	<item>TPMS主机模式切换</item>
+	<item>版本号查看</item>
+	<item>TPMS自动搜索配对轮胎</item>
+	<item>TPMS轮胎自动配对</item>
+</string-array><string-array name="carBrand">
+	<item>德系</item>
+	<item>日韩</item>
+	<item>美系</item>
+	　
+	<item>欧系</item>
+	<item>自主</item>
+</string-array><string-array name="JanKoreaBrand">
+	<item>本田</item>
+	<item>丰田</item>
+	<item>铃木</item>
+	　
+	<item>雷克萨斯</item>
+	<item>马自达</item>
+	<item>讴歌</item>
+	<item>日产</item>
+	<item>三菱</item>
+	　
+	<item>斯巴鲁</item>
+	<item>英菲尼迪</item>
+	<item>双龙</item>
+	<item>现代</item>
+</string-array><string-array name="EuropeBrand">
+	<item>标致</item>
+	<item>DS</item>
+	<item>雷诺</item>
+	　
+	<item>雪铁龙</item>
+	<item>阿斯顿•马丁</item>
+	<item>宾利</item>
+	<item>捷豹</item>
+	<item>路虎</item>
+	　
+	<item>劳斯莱斯</item>
+	<item>路特斯</item>
+	<item>迈凯轮</item>
+	<item>阿尔法•罗密欧</item>
+	<item>布加迪</item>
+	　
+	<item>菲亚特</item>
+	<item>法拉利</item>
+	<item>兰博基尼</item>
+	<item>蓝旗亚</item>
+	　
+	<item>玛莎拉蒂</item>
+	<item>依维柯</item>
+	<item>柯尼塞格</item>
+	<item>萨博</item>
+	<item>沃尔沃</item>
+	　
+	<item>斯柯达</item>
+</string-array><string-array name="SleepTimeSet">
+	<item>开</item>
+	　　　　 　　　
+	<item>关</item>
+</string-array><string-array name="LanguageSet">
+	<item>系统语言</item>
+	<item>简体中文</item>
+	　
+	<item>English</item>
+</string-array><string-array name="AutonomyBrand">
+	<item>比亚迪</item>
+	<item>北京汽车</item>
+	<item>奔腾</item>
+	　
+	<item>北汽制造</item>
+	<item>宝骏</item>
+	<item>北汽威旺</item>
+	<item>宝龙</item>
+	<item>长城</item>
+	　
+	<item>长安轿车</item>
+	<item>长安商用</item>
+	<item>长丰</item>
+	<item>昌河</item>
+	<item>东南</item>
+	　
+	<item>东风风行</item>
+	<item>东风</item>
+	<item>东风风神</item>
+	<item>大通</item>
+	<item>大迪</item>
+	　
+	<item>福田</item>
+	　　　　
+	<item>福迪</item>
+	<item>富奇</item>
+	　　　　
+	<item>广汽</item>
+	　　　　　
+	<item>广汽吉奥</item>
+	　　　　
+	<item>广汽日野</item>
+	<item>海马</item>
+	<item>华泰</item>
+	　　　　
+	<item>哈飞</item>
+	　　　　　
+	<item>海马商用车</item>
+	<item>黄海</item>
+	　　　　
+	<item>华普</item>
+	　　　　
+	<item>红旗</item>
+	　　　　　
+	<item>海格</item>
+	　　　　
+	<item>汇众</item>
+	<item>横天汽车</item>
+	　　　　
+	<item>航天圆通</item>
+	　　　　
+	<item>江淮</item>
+	　　　　　
+	<item>吉利全球鹰</item>
+	　　　　
+	<item>吉利帝豪</item>
+	<item>吉利英伦</item>
+	　　　　
+	<item>金杯</item>
+	　　　　
+	<item>江铃</item>
+	　　　　　
+	<item>江南</item>
+	　　　　
+	<item>金龙联合</item>
+	<item>俊风</item>
+	　　　　
+	<item>九龙</item>
+	　　　　　
+	<item>开瑞</item>
+	　　　　
+	<item>莲花</item>
+	<item>力帆</item>
+	<item>陆风</item>
+	　　　　
+	<item>理念</item>
+	　　　　　
+	<item>MG</item>
+	<item>美亚</item>
+	　　　　
+	<item>纳智捷</item>
+	　　　　
+	<item>欧朗</item>
+	　　　　　
+	<item>奇瑞</item>
+	　　　　
+	<item>启辰</item>
+	<item>庆铃</item>
+	　　　　
+	<item>荣威</item>
+	　　　　
+	<item>瑞麟</item>
+	　　　　　
+	<item>双环</item>
+	　　　　
+	<item>天马</item>
+	<item>五菱</item>
+	　　　　
+	<item>威麟</item>
+	　　　　
+	<item>新凯</item>
+	　　　　　
+	<item>新大地</item>
+	　　　　
+	<item>一汽</item>
+	<item>野马</item>
+	　　　　
+	<item>永源</item>
+	　　　　　
+	<item>宇通</item>
+	　　　　
+	<item>友谊客车</item>
+	<item>中华</item>
+	<item>众泰</item>
+	　　　　
+	<item>中兴</item>
+	　　　　　
+	<item>中欧</item>
+	<item>中客华北</item>
+	　　　　　
+	<item>中顺</item>
+</string-array><string-array name="GerBrand">
+	<item>奥迪</item>
+	<item>宝马</item>
+	<item>奔驰</item>
+	　
+	<item>保时捷</item>
+	<item>巴博斯</item>
+	<item>大众</item>
+	<item>MINI</item>
+	　　
+	<item>迈巴赫</item>
+	<item>欧宝</item>
+	<item>Smart</item>
+	<item>西雅特</item>
+</string-array><string-array name="AmeriBrand">
+	<item>别克</item>
+	<item>道奇</item>
+	<item>福特</item>
+	　
+	<item>GMC</item>
+	<item>悍马</item>
+	<item>Jeep</item>
+	<item>凯迪拉克</item>
+	<item>克莱斯勒</item>
+	　
+	<item>林肯</item>
+	<item>雪佛兰</item>
+	<item>星客特</item>
+</string-array></file><file path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\values\attr.xml" qualifiers=""><declare-styleable name="TogglePrefAttrs">
+        <attr name="android:preferenceLayoutChild"/>
+    </declare-styleable><declare-styleable name="Gallery1">
+        <attr name="android:galleryItemBackground"/>
+    </declare-styleable><declare-styleable name="LabelView">
+        <attr format="string" name="text"/>
+        <attr format="color" name="textColor"/>
+        <attr format="dimension" name="textSize"/>
+    </declare-styleable></file><file path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\values\color.xml" qualifiers=""><color name="tabhost_color">#353535</color><color name="dialog_bg">#00FFFFFF</color><color name="display_text">#FF009888</color><color name="spinner_bg">#F0000000</color><color name="list_title_color">#CCFFFFFF</color><color name="lightgray">#D3D3D3</color><color name="gray_fg">#d2d2d2</color><color name="normalPressDisplay">#FFFFFFFF</color><color name="gray_bg">#dbdbdb</color><color name="title_bg">#EE5F5F5F</color><color name="display_style2">#EE148DA3</color><color name="theme_color1">#156940</color><color name="display_style1">#FF5E94A2</color><color name="list_text_color">#80FFFFFF</color><color name="display_touch">#F0000000</color><color name="display_bg">#262626</color><color name="warnDisplay">#df3c77</color><color name="translucent">#3f000000</color><color name="theme_color">#4fb192</color><color name="text_color">#FFFFFF</color><color name="transparent">#00000000</color><color name="warnArea_bg">#00000000</color><color name="normalTempDisplay">#CCFFFFFF</color><color name="theme_color_dark">#4fa192</color></file><file path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\values\custom_dialog_styles.xml" qualifiers=""><style name="Theme.ShareDialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/set_dialog</item>
+        <item name="android:windowNoTitle">true</item>
+    </style><style name="button_dialog_theme">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">@dimen/text_size_mid</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:paddingRight">20dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">@dimen/btn_size_mid</item>
+        <item name="android:background">@drawable/btn_theme</item>
+        
+    </style><style name="button_dialog_theme_cancel">
+        <item name="android:textColor">@color/theme_color</item>
+        <item name="android:textSize">@dimen/text_size_mid</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:paddingRight">20dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">@dimen/btn_size_mid</item>
+        <item name="android:background">@drawable/btn_cancel_bg</item>
+        
+    </style><style name="AlertDialogCustom" parent="@android:style/Theme.Dialog">
+        <item name="android:textColor">#00FF00</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:textSize">10sp</item>
+    </style><style name="main_tab_bottom">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#80ffffff</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center_horizontal|bottom</item>
+        <item name="android:paddingTop">1dp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:button">@null</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:drawablePadding">0dp</item>
+        <item name="android:paddingRight">0dp</item>
+        <item name="android:layout_weight">1.0</item>
+        
+    </style><style name="main_value_view">
+        <item name="android:textColor">#ffffffff</item>
+        
+    </style><style name="DialogText">
+        <item name="android:textColor">#FFFFFFFF</item>
+        <item name="android:textSize">20sp</item>
+    </style><style name="main_tab_bottom_land">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#80ffffff</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center_horizontal|bottom</item>
+        <item name="android:paddingLeft">1dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:button">@null</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:drawablePadding">0dp</item>
+        <item name="android:paddingRight">0dp</item>
+        <item name="android:layout_weight">1.0</item>
+        
+    </style><style name="dialog_button_text">
+        <item name="android:textColor">#FFFFFFFF</item>
+        <item name="android:textSize">18sp</item>
+        
+    </style><style name="button_theme">
+        <item name="android:textColor">#FFFFFFFF</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:paddingRight">20dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/btn_theme</item>
+        
+    </style><style name="DialogText.Title">
+        <item name="android:textColor">#CCFFFFFF</item>
+        <item name="android:textSize">20sp</item>
+    </style><style name="textStyle1">
+        <item name="android:textColor">#80FFFFFF</item>
+        <item name="android:textSize">20sp</item>
+    </style></file><file path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="btn_size_max">40dp</dimen><dimen name="text_size_min">14sp</dimen><dimen name="text_size_small">15dp</dimen><dimen name="btn_size_max2">60dp</dimen><dimen name="btn_size_min">20dp</dimen><dimen name="text_size_max">20sp</dimen><dimen name="menu_right">80dp</dimen><dimen name="text_size_mid">16sp</dimen><dimen name="title_height">50dp</dimen><dimen name="btn_size_mid">30dp</dimen><dimen name="text_size_big">20dp</dimen></file><file path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\values\strings.xml" qualifiers=""><string name="Clear">清除</string><string name="PairedDevice">已配对设备</string><string name="SystemUserManual">系统使用说明</string><string name="Bluetooth">蓝牙</string><string name="StringWarnLowPre">低压报警值</string><string name="InputErr">输入错误,请重输入</string><string name="PlaseRStartApp">重启软件后生效</string><string name="tempValueSample">21℉</string><string name="StringTitleDefaultName">自定义标题栏</string><string name="carSeries">车型:</string><string name="exit">退出</string><string name="ChangenextPic">"换一张"</string><string name="pressure">轮胎充气压力</string><string name="productInfo">产品信息</string><string name="pref_setting">Preference setting</string><string name="BluetoothSettings">蓝牙设置</string><string name="useTermsCon">
+	  "      此版本只使用于Android平台2.3版本以上的手机，对于其他操作系统的手机上使用本软件，对于出现的任何问题，世纪鸿进公司不承担责任。\n"
+	  "      我同意世纪鸿进公司使用我提供的注册资料，用于内部研究和改善用户体验，本软件的下载、安装和使用完全免费，世纪鸿进公司不收取任何费用，下载、使用过程中产生的数据流量费用，由运营商收取。\n"
+	</string><string name="year">年份:</string><string name="StringCongratsInfo">"恭喜!\n"</string><string name="Cancel">取消</string><string name="disconnect">Disconnect connection</string><string name="connect_fail">连接失败，请重试</string><string name="LowPressureSimulation">气压偏低演示</string><string name="device_disconnect">USB已被拔插</string><string name="pressUnitSample">Bar</string><string name="SearchTireErr">搜寻轮胎错误:</string><string name="StringWarnArea">报警显示区</string><string name="connect_to">连接</string><string name="FactoryParameter">厂商参数设置</string><string name="StringAboutMe">关于</string><string name="SoftwareRegistration">软件注册</string><string name="StringVerifyAlter">请输入验证码</string><string name="RegisteredSuccess">注册成功！</string><string name="leakBattery">电量不足!</string><string name="ModuleName">模块名称：</string><string name="proximity_alert">Proximity alert</string><string name="SystemSetup">系统设置</string><string name="version_name">-B1124-001</string><string name="BluetoothConnection">蓝牙连接</string><string name="warnCapacity">报警数值设置</string><string name="AppVersion">应用软件版本</string><string name="StringWarnHighPre">高压报警值</string><string name="HighPressureSimulation">气压偏高演示</string><string name="leakPress">轮胎漏气!</string><string name="title_paired_devices">Paired Devices</string><string name="SupportInformation">售后支持信息</string><string name="RequestFailure">请求失败</string><string name="TireSwap">轮胎对调</string><string name="RestoreFactorySetup">恢复出厂设置</string><string name="WaitTimerOut">等待超时</string><string name="StringMainView">主页</string><string name="StopSearching">停止搜索</string><string name="useTerms">使用条款</string><string name="EmailErr">提示：\n邮箱格式不正确，请重新输入！</string><string name="FeatureSetup">功能设置</string><string name="bluethoothClose">    关闭    </string><string name="button_scan">Scan for devices</string><string name="ProVersion">协议版本：</string><string name="about">关于</string><string name="MHVersion">硬件版本：</string><string name="Register">注册</string><string name="connect_bluetooth">蓝牙接收主机</string><string name="BluetoothConnectionOK">TPMS接收机连接成功</string><string name="ViewHistoricaldataTitle">历史数据查看</string><string name="p_bar">Bar</string><string name="code">密码:</string><string name="app_name">TPMS</string><string name="signal_level_pref_category">Signal level notification</string><string name="SimulationExperience">模拟体验</string><string name="none_paired">No devices have been paired</string><string name="highPress">气压过高!</string><string name="brand">品牌:</string><string name="connect_usb">USB接收主机</string><string name="SolwLeakage">慢漏气</string><string name="select_disconnect_device">select a device to disconnect</string><string name="scanning">scanning for devices...</string><string name="connect_succ">连接成功!</string><string name="nickname">昵称:</string><string name="StringSelectAlter3">"轮胎对调"</string><string name="InterfaceStyleSetup">界面风格设置</string><string name="Back">返回</string><string name="StringSelectAlter2">"请选择要更换的第二个轮胎"</string><string name="CopyrightInformation">版权信息</string><string name="StringSelectAlter1">"请选择要更换的第一个轮胎"</string><string name="SetFailure">设置失败</string><string name="SetSuccess">设置成功</string><string name="select_device">select a device to connect</string><string name="afterSaleSupport">厦门瑞忆科技有限公司\n厦门研发中心：中国·厦门市同安区环东海域美溪道湖里工业园81号楼</string><string name="PasswordErr">提示：\n密码输入不正确，请重新输入！</string><string name="ConfirmedToExit">确认要退出</string><string name="MatchingDevice">可配对设备</string><string name="connect_title">请选择接收主机类型</string><string name="And">和</string><string name="email">Email:</string><string name="ViewSystemLogs">日志查看</string><string name="productSN">产品\nSN:</string><string name="name">姓名:</string><string name="StringCardArea">车体显示区</string><string name="BluetoothConnectionFailue">接收机连接失败</string><string name="StringSetting">设置</string><string name="SettingRange">设置范围:</string><string name="RegInfErr">提示：\n请填写完整后注册！</string><string name="StringChangeTyreInfoWarn1">"同意更换该轮胎传感器并生成验证码图片"</string><string name="lowPress">气压过低!</string><string name="BuildTimer">编译时间：</string><string name="BuildDate">编译日期：</string><string name="insertInfo">输入产品SN</string><string name="PleaseContectTPMS">请选择要连接的接收机</string><string name="StringExchangeInfo">"对调中..."</string><string name="warnReset">是否恢复出厂设置，恢复后请重新连接接收机</string><string name="SaveSet">保存退出</string><string name="title_connected_devices">Connected Devices</string><string name="StringSearchInfo">"搜索中..."</string><string name="Sysinit">系统初始化</string><string name="StatusUpdate">更新中...</string><string name="StringWarnNormalPre">标准充气压力</string><string name="BluetoothConnectionBreak">TPMS接收机断开</string><string name="SolwLeakageSimulation">慢漏气演示</string><string name="codeaffirm">确认\n密码:</string><string name="testtime">_0120</string><string name="AutoStartSetup">开机启动设置</string><string name="confirm">确认</string><string name="ViewHistoricaldata">历史数据查询</string><string name="ConnectDevice">已连接设备</string><string name="rightInfo">软件所有权信息:\n世纪鸿进（厦门）电子科技有限公司 版权所有\ncopyright©2014-2020 \nCentury Hongking(Xiamen)Electronics Technology Co., Ltd</string><string name="connect_ing">连接中</string><string name="StatusOk">状况良好!</string><string name="MSVersion">软件版本：</string><string name="p_psi">PSI</string><string name="bluethoothSearch">    蓝牙搜寻    </string><string name="highTemp">温度过高!</string><string name="connect">Connect a device</string><string name="HighTempSimulation">温度偏高演示</string><string name="Yes">是</string><string name="discoverable">Make discoverable</string><string name="TemperatureUnitSetup">温度单位</string><string name="setting">Setting</string><string name="AlarmValueSetup">报警值设置</string><string name="breakSenor">传感器故障!</string><string name="title_other_devices">Other Available Devices</string><string name="ReplaceTheTireSensor">更换轮胎传感器</string><string name="StringChangeAlter1">"请选择需要更换传感器的轮胎"</string><string name="StringChangeAlter2">"\n传感器更换成功"</string><string name="p_kpa">Kpa</string><string name="pressValueSample">0.95</string><string name="none_found">No devices found</string><string name="HighPressure">气压偏高</string><string name="LowPressure">气压偏低</string><string name="ScreenAlwaysOnSetup">屏幕常亮设置</string><string name="BackgroundAlarm">胎压出现异常,立即处理!</string><string name="carInfo">爱车信息</string><string name="LanguageSetup">语言设置</string><string name="ReceiverInformation">接收机相关信息</string><string name="selfInfo">个人信息</string><string name="StringSuccessInfo2">"对调成功"</string><string name="StringWarnHighTemp">高温报警值</string><string name="HighTemp">温度偏高</string><string name="PressureUnitSetup">压力单位</string><string name="tech_support">技术支持</string><string name="StringValueArea">数值显示区</string><string name="TrialResetSystem">尝试复位系统</string></file><file path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="@android:style/Theme.Translucent.NoTitleBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        
+    </style><style name="test" parent="AppTheme">
+        <item name="android:windowTitleSize">50dp</item>
+        <item name="android:windowTitleBackgroundStyle">@style/CustomWindowTitleBackground</item>
+    </style><style name="dialogStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/dialog_style</item>
+    </style><style name="myProgressBarStyleLarge">
+
+	銆�銆�        <item name="android:indeterminateDrawable">@drawable/progress_large</item>
+
+	銆�銆�        <item name="android:minWidth">56dip</item>
+
+	銆�銆�        <item name="android:maxWidth">56dip</item>
+
+	銆�銆�        <item name="android:minHeight">56dip</item>
+
+	銆�銆�        <item name="android:maxHeight">56dip</item>
+    </style><style name="CustomWindowTitleBackground">
+        <item name="android:background">@drawable/title_bg</item>
+    </style><style name="MyTheme2" parent="@android:style/android:Theme.Translucent"/><style name="MyTheme1" parent="@android:style/Theme.Dialog"/><style name="divider_v">
+        <item name="android:layout_width">1px</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@color/lightgray</item>
+    </style><style name="MyTheme3" parent="@android:Theme.Black"> 
+
+    </style><style name="divider_h">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1px</item>
+        <item name="android:background">@color/lightgray</item>
+    </style><style name="AppBaseTheme" parent="android:Theme.Light.NoTitleBar">
+        
+    </style><style name="my_edittext_style" parent="@android:style/Widget.EditText">
+        <item name="android:background">@drawable/my_edittext</item>
+    </style></file><file path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\values-en\arrays.xml" qualifiers="en"><string-array name="JanKoreaBrand">
+	<item>Honda</item>
+	<item>Toyota</item>
+	<item>SUZUKI</item>
+	　
+	<item>LEXUS</item>
+	<item>MAZDA</item>
+	<item>Acura</item>
+	<item>NISSAN</item>
+	<item>Mitsubishi Motors</item>
+	　
+	<item>SUBARU</item>
+	<item>Infiniti</item>
+	<item>SSANG YONG Motor</item>
+	<item>Hyundai</item>
+</string-array><string-array name="diaryLogCommand">
+	　　　　
+	<item>系统参数设置</item>
+	　　　 　
+	<item>系统参数获取</item>
+	<item>TPMS信息上报</item>
+</string-array><string-array name="AmeriBrand">
+	<item>Buick</item>
+	<item>Dodge</item>
+	<item>Ford</item>
+	　
+	<item>GMC</item>
+	<item>Hummer</item>
+	<item>Jeep</item>
+	<item>Cadillac</item>
+	<item>Chrysler</item>
+	　
+	<item>Lincoln</item>
+	<item>Chevrolet</item>
+	<item>Star</item>
+</string-array><string-array name="carBrand">
+	<item>German brand</item>
+	<item>JPNandKOR brand</item>
+	<item>American brand</item>
+	　
+	<item>European brand</item>
+	<item>Chinese brand</item>
+</string-array><string-array name="SystemErrCode">
+	<item>成功</item>
+	<item>参数错误</item>
+	　　　　
+	<item>通信超时</item>
+	　　　　
+	<item>协议包XOR错误</item>
+	　　　　　
+	<item>空函数错误</item>
+	<item>协议头错误</item>
+	<item>*协议头错误</item>
+	<item>协议尾错误</item>
+	<item>协议长度错误</item>
+	<item>解密错误</item>
+	<item>握手失败</item>
+	<item>函数调用超时</item>
+	<item>模式错误</item>
+</string-array><string-array name="tyreItem">
+	<item>L.F</item>
+	<item>R.F</item>
+	　
+	<item>L.R</item>
+	<item>R.R</item>
+</string-array><string-array name="EuropeBrand">
+	<item>Peugeot</item>
+	<item>DS</item>
+	<item>Renault</item>
+	　
+	<item>Citroen</item>
+	<item>AstonMartin</item>
+	<item>Bentley</item>
+	<item>Jaguar</item>
+	<item>Landrover</item>
+	　
+	<item>Rolls-Royce</item>
+	<item>Lotus</item>
+	<item>Mclaren</item>
+	<item>Alfa Romeo</item>
+	<item>BUGATTI</item>
+	　
+	<item>F.I.A.T.</item>
+	<item>Ferrari</item>
+	<item>Lamborghini</item>
+	<item>LANCIA</item>
+	　
+	<item>Maserati</item>
+	<item>NAVECO</item>
+	<item>Koenigsegg</item>
+	<item>SAAB</item>
+	<item>Volvo</item>
+	　
+	<item>Skoda</item>
+</string-array><string-array name="ComunicationCommand">
+	　　　　
+	<item>双机握手</item>
+	　　　 　
+	<item>系统参数设置</item>
+	　　　 　
+	<item>系统参数获取</item>
+	　
+	<item>TPMS轮胎对调</item>
+	<item>TPMS信息上报</item>
+	<item>TPMS轮胎ID获取</item>
+	<item>TPMS主机模式切换</item>
+	<item>版本号查看</item>
+	<item>TPMS自动搜索配对轮胎</item>
+	<item>TPMS轮胎自动配对</item>
+</string-array><string-array name="SleepTimeSet">
+	<item>On</item>
+	　　　　 　　　
+	<item>Off</item>
+</string-array><string-array name="AutonomyBrand">
+	<item>BYD</item>
+	<item>北京汽车</item>
+	<item>奔腾</item>
+	　
+	<item>北汽制造</item>
+	<item>宝骏</item>
+	<item>北汽威旺</item>
+	<item>宝龙</item>
+	<item>Great Wall</item>
+	　
+	<item>长安轿车</item>
+	<item>长安商用</item>
+	<item>长丰</item>
+	<item>昌河</item>
+	<item>东南</item>
+	　
+	<item>东风风行</item>
+	<item>东风</item>
+	<item>东风风神</item>
+	<item>大通</item>
+	<item>大迪</item>
+	　
+	<item>福田</item>
+	　　　　
+	<item>福迪</item>
+	<item>富奇</item>
+	　　　　
+	<item>广汽</item>
+	　　　　　
+	<item>广汽吉奥</item>
+	　　　　
+	<item>广汽日野</item>
+	<item>海马</item>
+	<item>华泰</item>
+	　　　　
+	<item>哈飞</item>
+	　　　　　
+	<item>海马商用车</item>
+	<item>黄海</item>
+	　　　　
+	<item>华普</item>
+	　　　　
+	<item>红旗</item>
+	　　　　　
+	<item>海格</item>
+	　　　　
+	<item>汇众</item>
+	<item>横天汽车</item>
+	　　　　
+	<item>航天圆通</item>
+	　　　　
+	<item>江淮</item>
+	　　　　　
+	<item>吉利全球鹰</item>
+	　　　　
+	<item>吉利帝豪</item>
+	<item>吉利英伦</item>
+	　　　　
+	<item>金杯</item>
+	　　　　
+	<item>江铃</item>
+	　　　　　
+	<item>江南</item>
+	　　　　
+	<item>金龙联合</item>
+	<item>俊风</item>
+	　　　　
+	<item>九龙</item>
+	　　　　　
+	<item>开瑞</item>
+	　　　　
+	<item>莲花</item>
+	<item>力帆</item>
+	<item>陆风</item>
+	　　　　
+	<item>理念</item>
+	　　　　　
+	<item>MG</item>
+	<item>美亚</item>
+	　　　　
+	<item>纳智捷</item>
+	　　　　
+	<item>欧朗</item>
+	　　　　　
+	<item>奇瑞</item>
+	　　　　
+	<item>启辰</item>
+	<item>庆铃</item>
+	　　　　
+	<item>荣威</item>
+	　　　　
+	<item>瑞麟</item>
+	　　　　　
+	<item>双环</item>
+	　　　　
+	<item>天马</item>
+	<item>五菱</item>
+	　　　　
+	<item>威麟</item>
+	　　　　
+	<item>新凯</item>
+	　　　　　
+	<item>新大地</item>
+	　　　　
+	<item>一汽</item>
+	<item>野马</item>
+	　　　　
+	<item>永源</item>
+	　　　　　
+	<item>宇通</item>
+	　　　　
+	<item>友谊客车</item>
+	<item>中华</item>
+	<item>众泰</item>
+	　　　　
+	<item>中兴</item>
+	　　　　　
+	<item>中欧</item>
+	<item>中客华北</item>
+	　　　　　
+	<item>中顺</item>
+</string-array><string-array name="LanguageSet">
+	<item>系统语言</item>
+	<item>简体中文</item>
+	　
+	<item>English</item>
+</string-array><string-array name="GerBrand">
+	<item>Audi</item>
+	<item>BMW</item>
+	<item>Mercedes-Benz</item>
+	　
+	<item>Porsche</item>
+	<item>BRABUS</item>
+	<item>Volkswagen</item>
+	<item>MINI</item>
+	　　
+	<item>Maybach</item>
+	<item>OPEL</item>
+	<item>Smart</item>
+	<item>Seat</item>
+</string-array></file><file path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\values-en\strings.xml" qualifiers="en"><string name="StringChangeAlter2">"Congratulations!\nsensor replaced successfully"</string><string name="BluetoothConnectionFailue">TPMS Connection Failure</string><string name="HighPressureSimulation">High-Pressure Simulation</string><string name="StringChangeAlter1">"Choose a tire needs to change the sensor"</string><string name="StringWarnArea">报警显示区</string><string name="setting">Setting</string><string name="InterfaceStyleSetup">Style Setting</string><string name="StringSetting">Settings</string><string name="StringChangeTyreInfoWarn1">"Agree to replace the tire sensor\nand generate a verification code image."</string><string name="FactoryParameter">Factory Parameter</string><string name="selfInfo">user Info</string><string name="SettingRange">Setting Range:</string><string name="RegisteredSuccess">Registered success!</string><string name="StringExchangeInfo">"swapping"</string><string name="StringWarnLowPre">Low PRESS. alarm value</string><string name="highTemp">Hig-T!</string><string name="TemperatureUnitSetup">TEMP. Unit Setting</string><string name="connect_to">connect</string><string name="disconnect">Disconnect connection</string><string name="pressValueSample">1.95</string><string name="BuildDate">Build Date:</string><string name="nickname">Nick:</string><string name="none_found">No devices found</string><string name="ConnectDevice">Connect Device</string><string name="title_other_devices">Other Available Devices</string><string name="RegInfErr">Tip:\nPlease fill in the complete info. before registration!</string><string name="signal_level_pref_category">Signal level notification</string><string name="Back">Back</string><string name="BluetoothSettings">Bluetooth Setting</string><string name="email">Email:</string><string name="FeatureSetup">Feature Setting</string><string name="productSN">Product\nS/N:</string><string name="warnReset">The receiver will restore the\nfactory settings and Bluetooth\nwill disconnect!</string><string name="LanguageSetup">Language Setting</string><string name="ConfirmedToExit">Confirmed to exit</string><string name="code">Code:</string><string name="StringSelectAlter1">"Please choose the first tire"</string><string name="StringSelectAlter2">"Please choose the second tire"</string><string name="ReceiverInformation">Receiver Information:</string><string name="StringWarnNormalPre">Standard PRESS.</string><string name="StringWarnHighTemp">High TEMP. alarm value</string><string name="SolwLeakageSimulation">Solw-Leakage Simulation</string><string name="BluetoothConnectionOK">TPMS Connection Success</string><string name="StringSelectAlter3">"Tire Swap"</string><string name="select_device">select a device to connect</string><string name="WaitTimerOut">Waiting timeout</string><string name="select_disconnect_device">select a device to disconnect</string><string name="highPress">Hig-P!</string><string name="StringAboutMe">About</string><string name="ProVersion">Protocol Version:</string><string name="StringSuccessInfo2">"whel swap on success"</string><string name="PlaseRStartApp">Please re-start App</string><string name="ScreenAlwaysOnSetup">AlwaysOnSetting</string><string name="leakPress">Leak!</string><string name="PressureUnitSetup">PRESS. Unit Setting</string><string name="connect_title">choose the host type</string><string name="device_disconnect">USB has unmounted</string><string name="BluetoothConnectionBreak">TPMS Connection Break</string><string name="warnCapacity">alarm Value Setting</string><string name="insertInfo">Input product SN</string><string name="SupportInformation">Support Information</string><string name="connect_succ">connect success!</string><string name="leakBattery">Low-B!</string><string name="breakSenor">TPM Fault!</string><string name="none_paired">No devices have been paired</string><string name="StringSearchInfo">"Searching"</string><string name="brand">Brand:</string><string name="productInfo">Product Info</string><string name="Register">Register</string><string name="StringCongratsInfo">"Congratulations!\n"</string><string name="app_name">TPMS</string><string name="StringMainView">Home</string><string name="EmailErr">Tip:\nEmail addr. format is incorrect, please re-enter!</string><string name="p_bar">Bar</string><string name="about">about</string><string name="Clear">Clear</string><string name="ViewSystemLogs">View System Logs</string><string name="SoftwareRegistration">Software registration</string><string name="Sysinit">System Initialization</string><string name="proximity_alert">Proximity alert</string><string name="MHVersion">Hard Version:</string><string name="afterSaleSupport">Email：support@china-tpms.com\nPhone：+86-400-822-6869\nWebsite:www.china-tpms.com\nAddress:\n3F Building 52,Meixi AVenue,\nTong an District,Xiamen Fujian,P.R.China\n</string><string name="RequestFailure">Request failure</string><string name="tempValueSample">21℃</string><string name="testtime">_0120</string><string name="SimulationExperience">Simulation Experience</string><string name="SetSuccess">Set Success</string><string name="discoverable">Make discoverable</string><string name="title_connected_devices">Connected Devices</string><string name="SetFailure">Set Failure</string><string name="useTermsCon">
+	  "      This version is only used for mobile phone Android platform version 2.3 and above,Century Hongking company does not responsible for any problems causing by operation the software on other mobile phone systems.\n"
+	  "      I agree with the century Hongking using the registration information i provide to internal research and improve the user experience.  This software to downloading,installation and using are completely free,Century Hongking does not charge any fees.Data flow cost to download and during use will be charged by operators.\n"
+	</string><string name="name">Name:</string><string name="Cancel">Cancel</string><string name="scanning">scanning for devices...</string><string name="p_psi">PSI</string><string name="CopyrightInformation">Copyright information</string><string name="useTerms">Use Terms</string><string name="StringVerifyAlter">Please enter\nthe verification code</string><string name="SolwLeakage">Solw-Leakage</string><string name="ViewHistoricaldata">View Historical data</string><string name="BuildTimer">Build Time:</string><string name="StringValueArea">数值显示区</string><string name="Bluetooth">Bluetooth</string><string name="title_paired_devices">Paired Devices</string><string name="TrialResetSystem">Trial Reset System</string><string name="MatchingDevice">Matching Device</string><string name="StringTitleDefaultName">自定义标题栏</string><string name="StringCardArea">车体显示区</string><string name="InputErr">Input error, please input again</string><string name="version_name">-B1124-001</string><string name="PleaseContectTPMS">PleaseContectTPMS</string><string name="StringWarnHighPre">High PRESS. alarm value</string><string name="rightInfo">Software ownership information:\nCopyringht©2014-2020\nCentury Hongking(Xiamen)Electronics Technology Co., Ltd</string><string name="connect_usb">USB host</string><string name="lowPress">Low-P!</string><string name="pref_setting">Preference setting</string><string name="TireSwap">Tire Swap</string><string name="AlarmValueSetup">Alarm Value Setting</string><string name="RestoreFactorySetup">Restore Factory</string><string name="connect">Connect a device</string><string name="ViewHistoricaldataTitle">View Historical data</string><string name="bluethoothSearch">bluethooth Search</string><string name="HighPressure">High-Pressure</string><string name="SaveSet">Save&amp;Exit</string><string name="And">And</string><string name="carInfo">Car Info</string><string name="connect_fail">connect failed，try again!</string><string name="AppVersion">App Version:</string><string name="year">Year:</string><string name="codeaffirm">Code\nAgain:</string><string name="button_scan">Scan for devices</string><string name="tech_support">Technical Support</string><string name="BluetoothConnection">Bluetooth Connection</string><string name="ReplaceTheTireSensor">Replace Tire Sensor</string><string name="p_kpa">Kpa</string><string name="HighTempSimulation">High-Temp. Simulation</string><string name="ChangenextPic">"Change One"</string><string name="LowPressure">Low-Pressure</string><string name="pressUnitSample">Kpa</string><string name="ModuleName">Module Name:</string><string name="StatusUpdate">Updating...</string><string name="connect_ing">connecting</string><string name="HighTemp">High-Temperture</string><string name="Yes">Yes</string><string name="pressure">Standard PRESS</string><string name="BackgroundAlarm">Abnormal！ deal with immediately</string><string name="SystemSetup">System Setting</string><string name="confirm">OK</string><string name="connect_bluetooth">bluetooth host</string><string name="MSVersion">Soft Version:</string><string name="StopSearching">Stop Searching</string><string name="exit">exit</string><string name="SearchTireErr">Search Err.</string><string name="SystemUserManual">System User Manual</string><string name="carSeries">Model:</string><string name="StatusOk">Good Order!</string><string name="LowPressureSimulation">Low-Pressure Simulation</string><string name="PairedDevice">Paired Device</string><string name="PasswordErr">Tip:\nPassword is incorrect,please re-enter!</string></file><file name="device_filter" path="E:\TPMS_201702101329\TPMSNoBand1\app\src\main\res\xml\device_filter.xml" qualifiers="" type="xml"/></source><source path="E:\TPMS_201702101329\TPMSNoBand1\app\build\generated\res\rs\debug"/><source path="E:\TPMS_201702101329\TPMSNoBand1\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="E:\TPMS_201702101329\TPMSNoBand1\app\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="LabelView"><attr format="string" name="text"/><attr format="color" name="textColor"/><attr format="dimension" name="textSize"/></declare-styleable><declare-styleable name="Gallery1"><attr name="android:galleryItemBackground"/></declare-styleable><declare-styleable name="TogglePrefAttrs"><attr name="android:preferenceLayoutChild"/></declare-styleable></configuration></mergedItems></merger>

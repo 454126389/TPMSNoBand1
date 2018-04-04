@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\display_viewlargedpi15.xml",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\layout-land\\display_viewlargedpi15.xml"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\display_viewlargetwo.xml",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\layout-land\\display_viewlargetwo.xml"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\pop_conn.xml",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\layout-land\\pop_conn.xml"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_connect.xml",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\layout-land\\activity_connect.xml"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\display_view.xml",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\layout-land\\display_view.xml"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\display_viewlarge.xml",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\layout-land\\display_viewlarge.xml"
+    }
+]

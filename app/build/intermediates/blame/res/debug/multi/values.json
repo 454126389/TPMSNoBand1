@@ -1,0 +1,2833 @@
+[
+    {
+        "outputFile": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 16,
+                    "endColumn": 15,
+                    "endOffset": 305
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 310,
+                    "endLine": 139,
+                    "endColumn": 15,
+                    "endOffset": 1965
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 1970,
+                    "endLine": 155,
+                    "endColumn": 15,
+                    "endOffset": 2279
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 2284,
+                    "endLine": 185,
+                    "endColumn": 15,
+                    "endOffset": 2766
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 2771,
+                    "endLine": 200,
+                    "endColumn": 15,
+                    "endOffset": 3020
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 3025,
+                    "endLine": 216,
+                    "endColumn": 15,
+                    "endOffset": 3292
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 3297,
+                    "endLine": 222,
+                    "endColumn": 15,
+                    "endOffset": 3409
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 3414,
+                    "endLine": 227,
+                    "endColumn": 15,
+                    "endOffset": 3506
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 3511,
+                    "endLine": 245,
+                    "endColumn": 15,
+                    "endOffset": 3839
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 246,
+                    "startColumn": 4,
+                    "startOffset": 3844,
+                    "endLine": 253,
+                    "endColumn": 15,
+                    "endOffset": 3978
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 254,
+                    "startColumn": 4,
+                    "startOffset": 3983,
+                    "endLine": 260,
+                    "endColumn": 15,
+                    "endOffset": 4114
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 261,
+                    "startColumn": 4,
+                    "startOffset": 4119,
+                    "endLine": 267,
+                    "endColumn": 15,
+                    "endOffset": 4240
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 4245,
+                    "endColumn": 45,
+                    "endOffset": 4286
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 269,
+                    "startColumn": 4,
+                    "startOffset": 4291,
+                    "endColumn": 44,
+                    "endOffset": 4331
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 270,
+                    "startColumn": 4,
+                    "startOffset": 4336,
+                    "endColumn": 50,
+                    "endOffset": 4382
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 271,
+                    "startColumn": 4,
+                    "startOffset": 4387,
+                    "endColumn": 50,
+                    "endOffset": 4433
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 272,
+                    "startColumn": 4,
+                    "startOffset": 4438,
+                    "endColumn": 48,
+                    "endOffset": 4482
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 273,
+                    "startColumn": 4,
+                    "startOffset": 4487,
+                    "endColumn": 49,
+                    "endOffset": 4532
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 274,
+                    "startColumn": 4,
+                    "startOffset": 4537,
+                    "endColumn": 41,
+                    "endOffset": 4574
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 275,
+                    "startColumn": 4,
+                    "startOffset": 4579,
+                    "endColumn": 41,
+                    "endOffset": 4616
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 276,
+                    "startColumn": 4,
+                    "startOffset": 4621,
+                    "endColumn": 43,
+                    "endOffset": 4660
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 277,
+                    "startColumn": 4,
+                    "startOffset": 4665,
+                    "endColumn": 51,
+                    "endOffset": 4712
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 278,
+                    "startColumn": 4,
+                    "startOffset": 4717,
+                    "endColumn": 52,
+                    "endOffset": 4765
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 279,
+                    "startColumn": 4,
+                    "startOffset": 4770,
+                    "endColumn": 54,
+                    "endOffset": 4820
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 280,
+                    "startColumn": 4,
+                    "startOffset": 4825,
+                    "endColumn": 53,
+                    "endOffset": 4874
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 281,
+                    "startColumn": 4,
+                    "startOffset": 4879,
+                    "endColumn": 46,
+                    "endOffset": 4921
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 282,
+                    "startColumn": 4,
+                    "startOffset": 4926,
+                    "endColumn": 47,
+                    "endOffset": 4969
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 283,
+                    "startColumn": 4,
+                    "startOffset": 4974,
+                    "endColumn": 44,
+                    "endOffset": 5014
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 284,
+                    "startColumn": 4,
+                    "startOffset": 5019,
+                    "endColumn": 45,
+                    "endOffset": 5060
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 285,
+                    "startColumn": 4,
+                    "startOffset": 5065,
+                    "endColumn": 46,
+                    "endOffset": 5107
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 286,
+                    "startColumn": 4,
+                    "startOffset": 5112,
+                    "endColumn": 50,
+                    "endOffset": 5158
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 287,
+                    "startColumn": 4,
+                    "startOffset": 5163,
+                    "endColumn": 44,
+                    "endOffset": 5203
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 288,
+                    "startColumn": 4,
+                    "startOffset": 5208,
+                    "endColumn": 47,
+                    "endOffset": 5251
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 289,
+                    "startColumn": 4,
+                    "startOffset": 5256,
+                    "endColumn": 47,
+                    "endOffset": 5299
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 290,
+                    "startColumn": 4,
+                    "startOffset": 5304,
+                    "endColumn": 47,
+                    "endOffset": 5347
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 291,
+                    "startColumn": 4,
+                    "startOffset": 5352,
+                    "endColumn": 45,
+                    "endOffset": 5393
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 295,
+                    "startColumn": 4,
+                    "startOffset": 5790,
+                    "endColumn": 43,
+                    "endOffset": 5829
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 296,
+                    "startColumn": 4,
+                    "startOffset": 5834,
+                    "endColumn": 44,
+                    "endOffset": 5874
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 297,
+                    "startColumn": 4,
+                    "startOffset": 5879,
+                    "endColumn": 43,
+                    "endOffset": 5918
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 298,
+                    "startColumn": 4,
+                    "startOffset": 5923,
+                    "endColumn": 43,
+                    "endOffset": 5962
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 299,
+                    "startColumn": 4,
+                    "startOffset": 5967,
+                    "endColumn": 41,
+                    "endOffset": 6004
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 300,
+                    "startColumn": 4,
+                    "startOffset": 6009,
+                    "endColumn": 44,
+                    "endOffset": 6049
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 301,
+                    "startColumn": 4,
+                    "startOffset": 6054,
+                    "endColumn": 44,
+                    "endOffset": 6094
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 302,
+                    "startColumn": 4,
+                    "startOffset": 6099,
+                    "endColumn": 44,
+                    "endOffset": 6139
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 303,
+                    "startColumn": 4,
+                    "startOffset": 6144,
+                    "endColumn": 44,
+                    "endOffset": 6184
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 304,
+                    "startColumn": 4,
+                    "startOffset": 6189,
+                    "endColumn": 46,
+                    "endOffset": 6231
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 305,
+                    "startColumn": 4,
+                    "startOffset": 6236,
+                    "endColumn": 43,
+                    "endOffset": 6275
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 306,
+                    "startColumn": 4,
+                    "startOffset": 6280,
+                    "endColumn": 49,
+                    "endOffset": 6325
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 307,
+                    "startColumn": 4,
+                    "startOffset": 6330,
+                    "endColumn": 33,
+                    "endOffset": 6359
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 308,
+                    "startColumn": 4,
+                    "startOffset": 6364,
+                    "endColumn": 45,
+                    "endOffset": 6405
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 309,
+                    "startColumn": 4,
+                    "startOffset": 6410,
+                    "endColumn": 49,
+                    "endOffset": 6455
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 310,
+                    "startColumn": 4,
+                    "startOffset": 6460,
+                    "endColumn": 35,
+                    "endOffset": 6491
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 311,
+                    "startColumn": 4,
+                    "startOffset": 6496,
+                    "endColumn": 56,
+                    "endOffset": 6548
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 312,
+                    "startColumn": 4,
+                    "startOffset": 6553,
+                    "endColumn": 40,
+                    "endOffset": 6589
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 313,
+                    "startColumn": 4,
+                    "startOffset": 6594,
+                    "endColumn": 52,
+                    "endOffset": 6642
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 314,
+                    "startColumn": 4,
+                    "startOffset": 6647,
+                    "endColumn": 62,
+                    "endOffset": 6705
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 315,
+                    "startColumn": 4,
+                    "startOffset": 6710,
+                    "endColumn": 61,
+                    "endOffset": 6767
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 316,
+                    "startColumn": 4,
+                    "startOffset": 6772,
+                    "endColumn": 61,
+                    "endOffset": 6829
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 317,
+                    "startColumn": 4,
+                    "startOffset": 6834,
+                    "endColumn": 50,
+                    "endOffset": 6880
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 318,
+                    "startColumn": 4,
+                    "startOffset": 6885,
+                    "endColumn": 43,
+                    "endOffset": 6924
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 319,
+                    "startColumn": 4,
+                    "startOffset": 6929,
+                    "endColumn": 44,
+                    "endOffset": 6969
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 320,
+                    "startColumn": 4,
+                    "startOffset": 6974,
+                    "endColumn": 37,
+                    "endOffset": 7007
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 321,
+                    "startColumn": 4,
+                    "startOffset": 7012,
+                    "endColumn": 47,
+                    "endOffset": 7055
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 322,
+                    "startColumn": 4,
+                    "startOffset": 7060,
+                    "endColumn": 36,
+                    "endOffset": 7092
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 323,
+                    "startColumn": 4,
+                    "startOffset": 7097,
+                    "endColumn": 49,
+                    "endOffset": 7142
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 324,
+                    "startColumn": 4,
+                    "startOffset": 7147,
+                    "endColumn": 47,
+                    "endOffset": 7190
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 325,
+                    "startColumn": 4,
+                    "startOffset": 7195,
+                    "endColumn": 53,
+                    "endOffset": 7244
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 326,
+                    "startColumn": 4,
+                    "startOffset": 7249,
+                    "endColumn": 56,
+                    "endOffset": 7301
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 327,
+                    "startColumn": 4,
+                    "startOffset": 7306,
+                    "endColumn": 51,
+                    "endOffset": 7353
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 328,
+                    "startColumn": 4,
+                    "startOffset": 7358,
+                    "endColumn": 45,
+                    "endOffset": 7399
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 329,
+                    "startColumn": 4,
+                    "startOffset": 7404,
+                    "endColumn": 45,
+                    "endOffset": 7445
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 330,
+                    "startColumn": 4,
+                    "startOffset": 7450,
+                    "endColumn": 57,
+                    "endOffset": 7503
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 331,
+                    "startColumn": 4,
+                    "startOffset": 7508,
+                    "endColumn": 41,
+                    "endOffset": 7545
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 332,
+                    "startColumn": 4,
+                    "startOffset": 7550,
+                    "endColumn": 53,
+                    "endOffset": 7599
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 333,
+                    "startColumn": 4,
+                    "startOffset": 7604,
+                    "endColumn": 46,
+                    "endOffset": 7646
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 334,
+                    "startColumn": 4,
+                    "startOffset": 7651,
+                    "endColumn": 54,
+                    "endOffset": 7701
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 335,
+                    "startColumn": 4,
+                    "startOffset": 7706,
+                    "endColumn": 46,
+                    "endOffset": 7748
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 336,
+                    "startColumn": 4,
+                    "startOffset": 7753,
+                    "endColumn": 44,
+                    "endOffset": 7793
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 337,
+                    "startColumn": 4,
+                    "startOffset": 7798,
+                    "endColumn": 56,
+                    "endOffset": 7850
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 338,
+                    "startColumn": 4,
+                    "startOffset": 7855,
+                    "endColumn": 43,
+                    "endOffset": 7894
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 339,
+                    "startColumn": 4,
+                    "startOffset": 7899,
+                    "endColumn": 43,
+                    "endOffset": 7938
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 340,
+                    "startColumn": 4,
+                    "startOffset": 7943,
+                    "endColumn": 48,
+                    "endOffset": 7987
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 341,
+                    "startColumn": 4,
+                    "startOffset": 7992,
+                    "endColumn": 44,
+                    "endOffset": 8032
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 342,
+                    "startColumn": 4,
+                    "startOffset": 8037,
+                    "endColumn": 46,
+                    "endOffset": 8079
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 343,
+                    "startColumn": 4,
+                    "startOffset": 8084,
+                    "endColumn": 59,
+                    "endOffset": 8139
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 344,
+                    "startColumn": 4,
+                    "startOffset": 8144,
+                    "endColumn": 50,
+                    "endOffset": 8190
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 345,
+                    "startColumn": 4,
+                    "startOffset": 8195,
+                    "endColumn": 56,
+                    "endOffset": 8247
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 346,
+                    "startColumn": 4,
+                    "startOffset": 8252,
+                    "endColumn": 50,
+                    "endOffset": 8298
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 347,
+                    "startColumn": 4,
+                    "startOffset": 8303,
+                    "endColumn": 44,
+                    "endOffset": 8343
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 348,
+                    "startColumn": 4,
+                    "startOffset": 8348,
+                    "endColumn": 55,
+                    "endOffset": 8399
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 349,
+                    "startColumn": 4,
+                    "startOffset": 8404,
+                    "endColumn": 52,
+                    "endOffset": 8452
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 350,
+                    "startColumn": 4,
+                    "startOffset": 8457,
+                    "endColumn": 39,
+                    "endOffset": 8492
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 351,
+                    "startColumn": 4,
+                    "startOffset": 8497,
+                    "endColumn": 51,
+                    "endOffset": 8544
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 352,
+                    "startColumn": 4,
+                    "startOffset": 8549,
+                    "endColumn": 56,
+                    "endOffset": 8601
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 353,
+                    "startColumn": 4,
+                    "startOffset": 8606,
+                    "endColumn": 47,
+                    "endOffset": 8649
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 354,
+                    "startColumn": 4,
+                    "startOffset": 8654,
+                    "endColumn": 54,
+                    "endOffset": 8704
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 355,
+                    "startColumn": 4,
+                    "startOffset": 8709,
+                    "endColumn": 40,
+                    "endOffset": 8745
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 356,
+                    "startColumn": 4,
+                    "startOffset": 8750,
+                    "endColumn": 54,
+                    "endOffset": 8800
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 357,
+                    "startColumn": 4,
+                    "startOffset": 8805,
+                    "endColumn": 49,
+                    "endOffset": 8850
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 358,
+                    "startColumn": 4,
+                    "startOffset": 8855,
+                    "endColumn": 43,
+                    "endOffset": 8894
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 359,
+                    "startColumn": 4,
+                    "startOffset": 8899,
+                    "endColumn": 43,
+                    "endOffset": 8938
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 360,
+                    "startColumn": 4,
+                    "startOffset": 8943,
+                    "endColumn": 46,
+                    "endOffset": 8985
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 361,
+                    "startColumn": 4,
+                    "startOffset": 8990,
+                    "endColumn": 53,
+                    "endOffset": 9039
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 362,
+                    "startColumn": 4,
+                    "startOffset": 9044,
+                    "endColumn": 53,
+                    "endOffset": 9093
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 363,
+                    "startColumn": 4,
+                    "startOffset": 9098,
+                    "endColumn": 43,
+                    "endOffset": 9137
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 364,
+                    "startColumn": 4,
+                    "startOffset": 9142,
+                    "endColumn": 55,
+                    "endOffset": 9193
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 365,
+                    "startColumn": 4,
+                    "startOffset": 9198,
+                    "endColumn": 42,
+                    "endOffset": 9236
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 366,
+                    "startColumn": 4,
+                    "startOffset": 9241,
+                    "endColumn": 47,
+                    "endOffset": 9284
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 367,
+                    "startColumn": 4,
+                    "startOffset": 9289,
+                    "endColumn": 46,
+                    "endOffset": 9331
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 368,
+                    "startColumn": 4,
+                    "startOffset": 9336,
+                    "endColumn": 44,
+                    "endOffset": 9376
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 369,
+                    "startColumn": 4,
+                    "startOffset": 9381,
+                    "endColumn": 48,
+                    "endOffset": 9425
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 370,
+                    "startColumn": 4,
+                    "startOffset": 9430,
+                    "endColumn": 62,
+                    "endOffset": 9488
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 371,
+                    "startColumn": 4,
+                    "startOffset": 9493,
+                    "endColumn": 58,
+                    "endOffset": 9547
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 372,
+                    "startColumn": 4,
+                    "startOffset": 9552,
+                    "endColumn": 74,
+                    "endOffset": 9622
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 373,
+                    "startColumn": 4,
+                    "startOffset": 9627,
+                    "endColumn": 54,
+                    "endOffset": 9677
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 374,
+                    "startColumn": 4,
+                    "startOffset": 9682,
+                    "endColumn": 55,
+                    "endOffset": 9733
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 375,
+                    "startColumn": 4,
+                    "startOffset": 9738,
+                    "endColumn": 45,
+                    "endOffset": 9779
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 376,
+                    "startColumn": 4,
+                    "startOffset": 9784,
+                    "endColumn": 53,
+                    "endOffset": 9833
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 377,
+                    "startColumn": 4,
+                    "startOffset": 9838,
+                    "endColumn": 61,
+                    "endOffset": 9895
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 378,
+                    "startColumn": 4,
+                    "startOffset": 9900,
+                    "endColumn": 61,
+                    "endOffset": 9957
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 379,
+                    "startColumn": 4,
+                    "startOffset": 9962,
+                    "endColumn": 53,
+                    "endOffset": 10011
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 380,
+                    "startColumn": 4,
+                    "startOffset": 10016,
+                    "endColumn": 44,
+                    "endOffset": 10056
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 381,
+                    "startColumn": 4,
+                    "startOffset": 10061,
+                    "endColumn": 53,
+                    "endOffset": 10110
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 382,
+                    "startColumn": 4,
+                    "startOffset": 10115,
+                    "endColumn": 57,
+                    "endOffset": 10168
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 383,
+                    "startColumn": 4,
+                    "startOffset": 10173,
+                    "endColumn": 49,
+                    "endOffset": 10218
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 384,
+                    "startColumn": 4,
+                    "startOffset": 10223,
+                    "endColumn": 52,
+                    "endOffset": 10271
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 385,
+                    "startColumn": 4,
+                    "startOffset": 10276,
+                    "endColumn": 48,
+                    "endOffset": 10320
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 386,
+                    "startColumn": 4,
+                    "startOffset": 10325,
+                    "endColumn": 51,
+                    "endOffset": 10372
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 387,
+                    "startColumn": 4,
+                    "startOffset": 10377,
+                    "endColumn": 52,
+                    "endOffset": 10425
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 388,
+                    "startColumn": 4,
+                    "startOffset": 10430,
+                    "endColumn": 50,
+                    "endOffset": 10476
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 389,
+                    "startColumn": 4,
+                    "startOffset": 10481,
+                    "endColumn": 54,
+                    "endOffset": 10531
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 390,
+                    "startColumn": 4,
+                    "startOffset": 10536,
+                    "endColumn": 53,
+                    "endOffset": 10585
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 391,
+                    "startColumn": 4,
+                    "startOffset": 10590,
+                    "endColumn": 41,
+                    "endOffset": 10627
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 392,
+                    "startColumn": 4,
+                    "startOffset": 10632,
+                    "endColumn": 44,
+                    "endOffset": 10672
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 393,
+                    "startColumn": 4,
+                    "startOffset": 10677,
+                    "endColumn": 51,
+                    "endOffset": 10724
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 394,
+                    "startColumn": 4,
+                    "startOffset": 10729,
+                    "endColumn": 53,
+                    "endOffset": 10778
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 395,
+                    "startColumn": 4,
+                    "startOffset": 10783,
+                    "endColumn": 41,
+                    "endOffset": 10820
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 396,
+                    "startColumn": 4,
+                    "startOffset": 10825,
+                    "endColumn": 51,
+                    "endOffset": 10872
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 397,
+                    "startColumn": 4,
+                    "startOffset": 10877,
+                    "endColumn": 53,
+                    "endOffset": 10926
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 398,
+                    "startColumn": 4,
+                    "startOffset": 10931,
+                    "endColumn": 58,
+                    "endOffset": 10985
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 399,
+                    "startColumn": 4,
+                    "startOffset": 10990,
+                    "endColumn": 47,
+                    "endOffset": 11033
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 400,
+                    "startColumn": 4,
+                    "startOffset": 11038,
+                    "endColumn": 45,
+                    "endOffset": 11079
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 401,
+                    "startColumn": 4,
+                    "startOffset": 11084,
+                    "endColumn": 33,
+                    "endOffset": 11113
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 402,
+                    "startColumn": 4,
+                    "startOffset": 11118,
+                    "endColumn": 36,
+                    "endOffset": 11150
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 403,
+                    "startColumn": 4,
+                    "startOffset": 11155,
+                    "endColumn": 89,
+                    "endOffset": 11240
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 404,
+                    "startColumn": 4,
+                    "startOffset": 11245,
+                    "endColumn": 41,
+                    "endOffset": 11282
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 405,
+                    "startColumn": 4,
+                    "startOffset": 11287,
+                    "endColumn": 54,
+                    "endOffset": 11337
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 1,
+                        "startOffset": 897,
+                        "endColumn": 51,
+                        "endOffset": 947
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 406,
+                    "startColumn": 4,
+                    "startOffset": 11342,
+                    "endColumn": 57,
+                    "endOffset": 11395
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 407,
+                    "startColumn": 4,
+                    "startOffset": 11400,
+                    "endColumn": 37,
+                    "endOffset": 11433
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 408,
+                    "startColumn": 4,
+                    "startOffset": 11438,
+                    "endColumn": 45,
+                    "endOffset": 11479
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 409,
+                    "startColumn": 4,
+                    "startOffset": 11484,
+                    "endColumn": 56,
+                    "endOffset": 11536
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 410,
+                    "startColumn": 4,
+                    "startOffset": 11541,
+                    "endColumn": 40,
+                    "endOffset": 11577
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 411,
+                    "startColumn": 4,
+                    "startOffset": 11582,
+                    "endColumn": 41,
+                    "endOffset": 11619
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 412,
+                    "startColumn": 4,
+                    "startOffset": 11624,
+                    "endColumn": 36,
+                    "endOffset": 11656
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 413,
+                    "startColumn": 4,
+                    "startOffset": 11661,
+                    "endColumn": 46,
+                    "endOffset": 11703
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 414,
+                    "startColumn": 4,
+                    "startOffset": 11708,
+                    "endColumn": 38,
+                    "endOffset": 11742
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 415,
+                    "startColumn": 4,
+                    "startOffset": 11747,
+                    "endColumn": 52,
+                    "endOffset": 11795
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 416,
+                    "startColumn": 4,
+                    "startOffset": 11800,
+                    "endColumn": 52,
+                    "endOffset": 11848
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 417,
+                    "startColumn": 4,
+                    "startOffset": 11853,
+                    "endColumn": 49,
+                    "endOffset": 11898
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 418,
+                    "startColumn": 4,
+                    "startOffset": 11903,
+                    "endColumn": 43,
+                    "endOffset": 11942
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 419,
+                    "startColumn": 4,
+                    "startOffset": 11947,
+                    "endColumn": 46,
+                    "endOffset": 11989
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 420,
+                    "startColumn": 4,
+                    "startOffset": 11994,
+                    "endColumn": 51,
+                    "endOffset": 12041
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 421,
+                    "startColumn": 4,
+                    "startOffset": 12046,
+                    "endColumn": 41,
+                    "endOffset": 12083
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 422,
+                    "startColumn": 4,
+                    "startOffset": 12088,
+                    "endColumn": 47,
+                    "endOffset": 12131
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 423,
+                    "startColumn": 4,
+                    "startOffset": 12136,
+                    "endColumn": 53,
+                    "endOffset": 12185
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 424,
+                    "startColumn": 4,
+                    "startOffset": 12190,
+                    "endColumn": 60,
+                    "endOffset": 12246
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 425,
+                    "startColumn": 4,
+                    "startOffset": 12251,
+                    "endColumn": 58,
+                    "endOffset": 12305
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 426,
+                    "startColumn": 4,
+                    "startOffset": 12310,
+                    "endColumn": 40,
+                    "endOffset": 12346
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 427,
+                    "startColumn": 4,
+                    "startOffset": 12351,
+                    "endColumn": 35,
+                    "endOffset": 12382
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 428,
+                    "startColumn": 4,
+                    "startOffset": 12387,
+                    "endColumn": 43,
+                    "endOffset": 12426
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 429,
+                    "startColumn": 4,
+                    "startOffset": 12431,
+                    "endColumn": 42,
+                    "endOffset": 12469
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 430,
+                    "startColumn": 4,
+                    "startOffset": 12474,
+                    "endColumn": 45,
+                    "endOffset": 12515
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 431,
+                    "startColumn": 4,
+                    "startOffset": 12520,
+                    "endColumn": 45,
+                    "endOffset": 12561
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 432,
+                    "startColumn": 4,
+                    "startOffset": 12566,
+                    "endColumn": 43,
+                    "endOffset": 12605
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 433,
+                    "startColumn": 4,
+                    "startOffset": 12610,
+                    "endColumn": 42,
+                    "endOffset": 12648
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 434,
+                    "startColumn": 4,
+                    "startOffset": 12653,
+                    "endColumn": 36,
+                    "endOffset": 12685
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 435,
+                    "startColumn": 4,
+                    "startOffset": 12690,
+                    "endColumn": 40,
+                    "endOffset": 12726
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 436,
+                    "startColumn": 4,
+                    "startOffset": 12731,
+                    "endColumn": 55,
+                    "endOffset": 12782
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 437,
+                    "startColumn": 4,
+                    "startOffset": 12787,
+                    "endColumn": 67,
+                    "endOffset": 12850
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 438,
+                    "startColumn": 4,
+                    "startOffset": 12855,
+                    "endColumn": 37,
+                    "endOffset": 12888
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 439,
+                    "startColumn": 4,
+                    "startOffset": 12893,
+                    "endColumn": 37,
+                    "endOffset": 12926
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 440,
+                    "startColumn": 4,
+                    "startOffset": 12931,
+                    "endColumn": 37,
+                    "endOffset": 12964
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 441,
+                    "startColumn": 4,
+                    "startOffset": 12969,
+                    "endColumn": 59,
+                    "endOffset": 13024
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 442,
+                    "startColumn": 4,
+                    "startOffset": 13029,
+                    "endColumn": 47,
+                    "endOffset": 13072
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 443,
+                    "startColumn": 4,
+                    "startOffset": 13077,
+                    "endColumn": 49,
+                    "endOffset": 13122
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 444,
+                    "startColumn": 4,
+                    "startOffset": 13127,
+                    "endColumn": 43,
+                    "endOffset": 13166
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 445,
+                    "startColumn": 4,
+                    "startOffset": 13171,
+                    "endColumn": 44,
+                    "endOffset": 13211
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 446,
+                    "startColumn": 4,
+                    "startOffset": 13216,
+                    "endColumn": 45,
+                    "endOffset": 13257
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 447,
+                    "startColumn": 4,
+                    "startOffset": 13262,
+                    "endColumn": 59,
+                    "endOffset": 13317
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 448,
+                    "startColumn": 4,
+                    "startOffset": 13322,
+                    "endColumn": 148,
+                    "endOffset": 13466
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 449,
+                    "startColumn": 4,
+                    "startOffset": 13471,
+                    "endColumn": 60,
+                    "endOffset": 13527
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 450,
+                    "startColumn": 4,
+                    "startOffset": 13532,
+                    "endColumn": 68,
+                    "endOffset": 13596
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 451,
+                    "startColumn": 4,
+                    "startOffset": 13601,
+                    "endColumn": 82,
+                    "endOffset": 13679
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 452,
+                    "startColumn": 4,
+                    "startOffset": 13684,
+                    "endColumn": 41,
+                    "endOffset": 13721
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 453,
+                    "startColumn": 4,
+                    "startOffset": 13726,
+                    "endColumn": 43,
+                    "endOffset": 13765
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 454,
+                    "startColumn": 4,
+                    "startOffset": 13770,
+                    "endColumn": 80,
+                    "endOffset": 13846
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 455,
+                    "startColumn": 4,
+                    "startOffset": 13851,
+                    "endColumn": 45,
+                    "endOffset": 13892
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 456,
+                    "startColumn": 4,
+                    "startOffset": 13897,
+                    "endColumn": 47,
+                    "endOffset": 13940
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 457,
+                    "startColumn": 4,
+                    "startOffset": 13945,
+                    "endColumn": 42,
+                    "endOffset": 13983
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 458,
+                    "startColumn": 4,
+                    "startOffset": 13988,
+                    "endColumn": 69,
+                    "endOffset": 14053
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 459,
+                    "startColumn": 4,
+                    "startOffset": 14058,
+                    "endColumn": 71,
+                    "endOffset": 14125
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 460,
+                    "startColumn": 4,
+                    "startOffset": 14130,
+                    "endColumn": 63,
+                    "endOffset": 14189
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 461,
+                    "startColumn": 4,
+                    "startOffset": 14194,
+                    "endColumn": 41,
+                    "endOffset": 14231
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 462,
+                    "startColumn": 4,
+                    "startOffset": 14236,
+                    "endLine": 465,
+                    "endColumn": 10,
+                    "endOffset": 14459
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 466,
+                    "startColumn": 4,
+                    "startOffset": 14464,
+                    "endColumn": 51,
+                    "endOffset": 14511
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 467,
+                    "startColumn": 4,
+                    "startOffset": 14516,
+                    "endColumn": 47,
+                    "endOffset": 14559
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 468,
+                    "startColumn": 4,
+                    "startOffset": 14564,
+                    "endColumn": 58,
+                    "endOffset": 14618
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 469,
+                    "startColumn": 4,
+                    "startOffset": 14623,
+                    "endColumn": 36,
+                    "endOffset": 14655
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 470,
+                    "startColumn": 4,
+                    "startOffset": 14660,
+                    "endLine": 474,
+                    "endColumn": 12,
+                    "endOffset": 14901
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\custom_dialog_styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 475,
+                    "startColumn": 4,
+                    "startOffset": 14906,
+                    "endLine": 477,
+                    "endColumn": 12,
+                    "endOffset": 14995
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 478,
+                    "startColumn": 4,
+                    "startOffset": 15000,
+                    "endLine": 482,
+                    "endColumn": 12,
+                    "endOffset": 15239
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 483,
+                    "startColumn": 4,
+                    "startOffset": 15244,
+                    "endLine": 485,
+                    "endColumn": 12,
+                    "endOffset": 15365
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 486,
+                    "startColumn": 4,
+                    "startOffset": 15370,
+                    "endLine": 489,
+                    "endColumn": 12,
+                    "endOffset": 15514
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\custom_dialog_styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 490,
+                    "startColumn": 4,
+                    "startOffset": 15519,
+                    "endLine": 493,
+                    "endColumn": 12,
+                    "endOffset": 15669
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\custom_dialog_styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 494,
+                    "startColumn": 4,
+                    "startOffset": 15674,
+                    "endColumn": 65,
+                    "endOffset": 15735
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 495,
+                    "startColumn": 4,
+                    "startOffset": 15740,
+                    "endColumn": 78,
+                    "endOffset": 15814
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 496,
+                    "startColumn": 4,
+                    "startOffset": 15819,
+                    "endLine": 498,
+                    "endColumn": 12,
+                    "endOffset": 15887
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 499,
+                    "startColumn": 4,
+                    "startOffset": 15892,
+                    "endLine": 502,
+                    "endColumn": 12,
+                    "endOffset": 16102
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\custom_dialog_styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 503,
+                    "startColumn": 4,
+                    "startOffset": 16107,
+                    "endLine": 514,
+                    "endColumn": 12,
+                    "endOffset": 16707
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\custom_dialog_styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 515,
+                    "startColumn": 4,
+                    "startOffset": 16712,
+                    "endLine": 526,
+                    "endColumn": 12,
+                    "endOffset": 17321
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\custom_dialog_styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 527,
+                    "startColumn": 4,
+                    "startOffset": 17326,
+                    "endLine": 538,
+                    "endColumn": 12,
+                    "endOffset": 17885
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\custom_dialog_styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 539,
+                    "startColumn": 4,
+                    "startOffset": 17890,
+                    "endLine": 541,
+                    "endColumn": 12,
+                    "endOffset": 18042
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 542,
+                    "startColumn": 4,
+                    "startOffset": 18047,
+                    "endLine": 546,
+                    "endColumn": 12,
+                    "endOffset": 18208
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\custom_dialog_styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 547,
+                    "startColumn": 4,
+                    "startOffset": 18213,
+                    "endLine": 551,
+                    "endColumn": 12,
+                    "endOffset": 18430
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 552,
+                    "startColumn": 4,
+                    "startOffset": 18435,
+                    "endLine": 556,
+                    "endColumn": 12,
+                    "endOffset": 18652
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 557,
+                    "startColumn": 4,
+                    "startOffset": 18657,
+                    "endLine": 571,
+                    "endColumn": 12,
+                    "endOffset": 19377
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\custom_dialog_styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 572,
+                    "startColumn": 4,
+                    "startOffset": 19382,
+                    "endLine": 586,
+                    "endColumn": 12,
+                    "endOffset": 20100
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\custom_dialog_styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 587,
+                    "startColumn": 4,
+                    "startOffset": 20105,
+                    "endLine": 590,
+                    "endColumn": 12,
+                    "endOffset": 20213
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\custom_dialog_styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 591,
+                    "startColumn": 4,
+                    "startOffset": 20218,
+                    "endLine": 602,
+                    "endColumn": 12,
+                    "endOffset": 20588
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 603,
+                    "startColumn": 4,
+                    "startOffset": 20593,
+                    "endLine": 605,
+                    "endColumn": 12,
+                    "endOffset": 20747
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 606,
+                    "startColumn": 4,
+                    "startOffset": 20752,
+                    "endLine": 609,
+                    "endColumn": 12,
+                    "endOffset": 20957
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 610,
+                    "startColumn": 4,
+                    "startOffset": 20962,
+                    "endLine": 613,
+                    "endColumn": 12,
+                    "endOffset": 21106
+                },
+                "from": {
+                    "file": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\values\\custom_dialog_styles.xml"
+                }
+            }
+        ]
+    }
+]

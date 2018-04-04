@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout01"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="@drawable/bg_white"
+    android:minWidth="460dp"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/blank01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/title"
+            style="@style/DialogText.Title"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="@string/StringWarnNormalPre"
+            android:textSize="35sp"
+            android:textColor="@color/theme_color" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="450dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/bg_gray_conner"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <com.hongking.hktpms.views.WheelView
+            android:id="@+id/value_wheel1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+        
+        <com.hongking.hktpms.views.WheelView
+            android:id="@+id/value_wheel2"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <com.hongking.hktpms.views.WheelView
+            android:id="@+id/value_wheel3"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/p_confirm"
+            style="@style/button_dialog_theme"
+            android:textSize="30sp"
+            android:gravity="center"
+            android:paddingLeft="40dp"
+            android:paddingRight="40dp"
+            android:layout_height="wrap_content"
+            android:text="@string/confirm" />
+
+        <Button
+            android:id="@+id/p_cancel"
+            style="@style/button_dialog_theme_cancel"
+            android:textSize="30sp"
+            android:gravity="center"
+            android:paddingLeft="40dp"
+            android:paddingRight="40dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:text="@string/Cancel" />
+    </LinearLayout>
+
+</LinearLayout>

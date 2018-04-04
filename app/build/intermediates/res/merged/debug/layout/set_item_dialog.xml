@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout01"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="@drawable/bg_white"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/blank01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:gravity="center_horizontal"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/title"
+            style="@style/DialogText.Title"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:textColor="@color/theme_color"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/message"
+            style="@style/DialogText.Title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="25dp"
+            android:gravity="center"
+            android:textColor="@color/theme_color" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/ListView01"
+        android:layout_width="wrap_content"
+        android:layout_height="120dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="25dp"
+        android:cacheColorHint="@android:color/transparent"
+        android:divider="#00000000"
+        android:listSelector="@android:color/transparent"
+        android:scrollbars="none" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/positiveButton"
+            style="@style/button_dialog_theme"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/negativeButton"
+            style="@style/button_dialog_theme_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+</LinearLayout>

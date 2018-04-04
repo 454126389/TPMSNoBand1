@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<PreferenceScreen 
+
+  xmlns:android="http://schemas.android.com/apk/res/android" 
+
+            android:title="Settings"> 
+
+    <PreferenceCategory 
+
+        android:title="adf"> 
+
+        <EditTextPreference 
+
+            android:key="prefer_address" 
+
+            android:title="setAddress"/> 
+
+        <EditTextPreference 
+
+            android:key="prefer_port" 
+
+            android:numeric="integer" 
+
+            android:title="port" 
+
+           /> 
+
+        <ListPreference 
+
+            android:key="prefer_request_type" 
+
+            android:title="requsttype" 
+
+            android:dialogTitle="requsttype" /> 
+
+        <CheckBoxPreference  
+
+            android:key="prefer_keepAlive" 
+
+            android:title="keep_alive" 
+
+            android:summary="false" 
+
+            /> 
+
+        <CheckBoxPreference 
+
+            android:key="prefer_sendACK" 
+
+            android:title="send_ack" 
+
+            android:summary="false" 
+
+            /> 
+
+        <EditTextPreference 
+
+            android:key="prefer_ht_group" 
+
+            android:title="ht_group" 
+
+            android:dialogTitle="ht_group"/> 
+
+    </PreferenceCategory> 
+
+ 
+
+</PreferenceScreen>     
+

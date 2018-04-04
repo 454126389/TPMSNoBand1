@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="AmeriBrand">
+	<item>别克</item>
+	<item>道奇</item>
+	<item>福特</item>
+	　
+	<item>GMC</item>
+	<item>悍马</item>
+	<item>Jeep</item>
+	<item>凯迪拉克</item>
+	<item>克莱斯勒</item>
+	　
+	<item>林肯</item>
+	<item>雪佛兰</item>
+	<item>星客特</item>
+</string-array>
+    <string-array name="AutonomyBrand">
+	<item>比亚迪</item>
+	<item>北京汽车</item>
+	<item>奔腾</item>
+	　
+	<item>北汽制造</item>
+	<item>宝骏</item>
+	<item>北汽威旺</item>
+	<item>宝龙</item>
+	<item>长城</item>
+	　
+	<item>长安轿车</item>
+	<item>长安商用</item>
+	<item>长丰</item>
+	<item>昌河</item>
+	<item>东南</item>
+	　
+	<item>东风风行</item>
+	<item>东风</item>
+	<item>东风风神</item>
+	<item>大通</item>
+	<item>大迪</item>
+	　
+	<item>福田</item>
+	　　　　
+	<item>福迪</item>
+	<item>富奇</item>
+	　　　　
+	<item>广汽</item>
+	　　　　　
+	<item>广汽吉奥</item>
+	　　　　
+	<item>广汽日野</item>
+	<item>海马</item>
+	<item>华泰</item>
+	　　　　
+	<item>哈飞</item>
+	　　　　　
+	<item>海马商用车</item>
+	<item>黄海</item>
+	　　　　
+	<item>华普</item>
+	　　　　
+	<item>红旗</item>
+	　　　　　
+	<item>海格</item>
+	　　　　
+	<item>汇众</item>
+	<item>横天汽车</item>
+	　　　　
+	<item>航天圆通</item>
+	　　　　
+	<item>江淮</item>
+	　　　　　
+	<item>吉利全球鹰</item>
+	　　　　
+	<item>吉利帝豪</item>
+	<item>吉利英伦</item>
+	　　　　
+	<item>金杯</item>
+	　　　　
+	<item>江铃</item>
+	　　　　　
+	<item>江南</item>
+	　　　　
+	<item>金龙联合</item>
+	<item>俊风</item>
+	　　　　
+	<item>九龙</item>
+	　　　　　
+	<item>开瑞</item>
+	　　　　
+	<item>莲花</item>
+	<item>力帆</item>
+	<item>陆风</item>
+	　　　　
+	<item>理念</item>
+	　　　　　
+	<item>MG</item>
+	<item>美亚</item>
+	　　　　
+	<item>纳智捷</item>
+	　　　　
+	<item>欧朗</item>
+	　　　　　
+	<item>奇瑞</item>
+	　　　　
+	<item>启辰</item>
+	<item>庆铃</item>
+	　　　　
+	<item>荣威</item>
+	　　　　
+	<item>瑞麟</item>
+	　　　　　
+	<item>双环</item>
+	　　　　
+	<item>天马</item>
+	<item>五菱</item>
+	　　　　
+	<item>威麟</item>
+	　　　　
+	<item>新凯</item>
+	　　　　　
+	<item>新大地</item>
+	　　　　
+	<item>一汽</item>
+	<item>野马</item>
+	　　　　
+	<item>永源</item>
+	　　　　　
+	<item>宇通</item>
+	　　　　
+	<item>友谊客车</item>
+	<item>中华</item>
+	<item>众泰</item>
+	　　　　
+	<item>中兴</item>
+	　　　　　
+	<item>中欧</item>
+	<item>中客华北</item>
+	　　　　　
+	<item>中顺</item>
+</string-array>
+    <string-array name="ComunicationCommand">
+	　　　　
+	<item>双机握手</item>
+	　　　 　
+	<item>系统参数设置</item>
+	　　　 　
+	<item>系统参数获取</item>
+	　
+	<item>TPMS轮胎对调</item>
+	<item>TPMS信息上报</item>
+	<item>TPMS轮胎ID获取</item>
+	<item>TPMS主机模式切换</item>
+	<item>版本号查看</item>
+	<item>TPMS自动搜索配对轮胎</item>
+	<item>TPMS轮胎自动配对</item>
+</string-array>
+    <string-array name="EuropeBrand">
+	<item>标致</item>
+	<item>DS</item>
+	<item>雷诺</item>
+	　
+	<item>雪铁龙</item>
+	<item>阿斯顿•马丁</item>
+	<item>宾利</item>
+	<item>捷豹</item>
+	<item>路虎</item>
+	　
+	<item>劳斯莱斯</item>
+	<item>路特斯</item>
+	<item>迈凯轮</item>
+	<item>阿尔法•罗密欧</item>
+	<item>布加迪</item>
+	　
+	<item>菲亚特</item>
+	<item>法拉利</item>
+	<item>兰博基尼</item>
+	<item>蓝旗亚</item>
+	　
+	<item>玛莎拉蒂</item>
+	<item>依维柯</item>
+	<item>柯尼塞格</item>
+	<item>萨博</item>
+	<item>沃尔沃</item>
+	　
+	<item>斯柯达</item>
+</string-array>
+    <string-array name="GerBrand">
+	<item>奥迪</item>
+	<item>宝马</item>
+	<item>奔驰</item>
+	　
+	<item>保时捷</item>
+	<item>巴博斯</item>
+	<item>大众</item>
+	<item>MINI</item>
+	　　
+	<item>迈巴赫</item>
+	<item>欧宝</item>
+	<item>Smart</item>
+	<item>西雅特</item>
+</string-array>
+    <string-array name="JanKoreaBrand">
+	<item>本田</item>
+	<item>丰田</item>
+	<item>铃木</item>
+	　
+	<item>雷克萨斯</item>
+	<item>马自达</item>
+	<item>讴歌</item>
+	<item>日产</item>
+	<item>三菱</item>
+	　
+	<item>斯巴鲁</item>
+	<item>英菲尼迪</item>
+	<item>双龙</item>
+	<item>现代</item>
+</string-array>
+    <string-array name="LanguageSet">
+	<item>系统语言</item>
+	<item>简体中文</item>
+	　
+	<item>English</item>
+</string-array>
+    <string-array name="SleepTimeSet">
+	<item>开</item>
+	　　　　 　　　
+	<item>关</item>
+</string-array>
+    <string-array name="SystemErrCode">
+	<item>成功</item>
+	<item>参数错误</item>
+	　　　　
+	<item>通信超时</item>
+	　　　　
+	<item>协议包XOR错误</item>
+	　　　　　
+	<item>空函数错误</item>
+	<item>协议头错误</item>
+	<item>*协议头错误</item>
+	<item>协议尾错误</item>
+	<item>协议长度错误</item>
+	<item>解密错误</item>
+	<item>握手失败</item>
+	<item>函数调用超时</item>
+	<item>模式错误</item>
+</string-array>
+    <string-array name="carBrand">
+	<item>德系</item>
+	<item>日韩</item>
+	<item>美系</item>
+	　
+	<item>欧系</item>
+	<item>自主</item>
+</string-array>
+    <string-array name="diaryLogCommand">
+	　　　　
+	<item>系统参数设置</item>
+	　　　 　
+	<item>系统参数获取</item>
+	<item>TPMS信息上报</item>
+</string-array>
+    <string-array name="tyreItem">
+	<item>左前轮</item>
+	<item>右前轮</item>
+	　
+	<item>左后轮</item>
+	<item>右后轮</item>
+</string-array>
+    <color name="dialog_bg">#00FFFFFF</color>
+    <color name="display_bg">#262626</color>
+    <color name="display_style1">#FF5E94A2</color>
+    <color name="display_style2">#EE148DA3</color>
+    <color name="display_text">#FF009888</color>
+    <color name="display_touch">#F0000000</color>
+    <color name="gray_bg">#dbdbdb</color>
+    <color name="gray_fg">#d2d2d2</color>
+    <color name="lightgray">#D3D3D3</color>
+    <color name="list_text_color">#80FFFFFF</color>
+    <color name="list_title_color">#CCFFFFFF</color>
+    <color name="normalPressDisplay">#FFFFFFFF</color>
+    <color name="normalTempDisplay">#CCFFFFFF</color>
+    <color name="spinner_bg">#F0000000</color>
+    <color name="tabhost_color">#353535</color>
+    <color name="text_color">#FFFFFF</color>
+    <color name="theme_color">#4fb192</color>
+    <color name="theme_color1">#156940</color>
+    <color name="theme_color_dark">#4fa192</color>
+    <color name="title_bg">#EE5F5F5F</color>
+    <color name="translucent">#3f000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="warnArea_bg">#00000000</color>
+    <color name="warnDisplay">#df3c77</color>
+    <declare-styleable name="Gallery1"><attr name="android:galleryItemBackground"/></declare-styleable>
+    <declare-styleable name="LabelView"><attr format="string" name="text"/><attr format="color" name="textColor"/><attr format="dimension" name="textSize"/></declare-styleable>
+    <declare-styleable name="TogglePrefAttrs"><attr name="android:preferenceLayoutChild"/></declare-styleable>
+    <dimen name="btn_size_max">40dp</dimen>
+    <dimen name="btn_size_max2">60dp</dimen>
+    <dimen name="btn_size_mid">30dp</dimen>
+    <dimen name="btn_size_min">20dp</dimen>
+    <dimen name="menu_right">80dp</dimen>
+    <dimen name="text_size_big">20dp</dimen>
+    <dimen name="text_size_max">20sp</dimen>
+    <dimen name="text_size_mid">16sp</dimen>
+    <dimen name="text_size_min">14sp</dimen>
+    <dimen name="text_size_small">15dp</dimen>
+    <dimen name="title_height">50dp</dimen>
+    <string name="AlarmValueSetup">报警值设置</string>
+    <string name="And">和</string>
+    <string name="AppVersion">应用软件版本</string>
+    <string name="AutoStartSetup">开机启动设置</string>
+    <string name="Back">返回</string>
+    <string name="BackgroundAlarm">胎压出现异常,立即处理!</string>
+    <string name="Bluetooth">蓝牙</string>
+    <string name="BluetoothConnection">蓝牙连接</string>
+    <string name="BluetoothConnectionBreak">TPMS接收机断开</string>
+    <string name="BluetoothConnectionFailue">接收机连接失败</string>
+    <string name="BluetoothConnectionOK">TPMS接收机连接成功</string>
+    <string name="BluetoothSettings">蓝牙设置</string>
+    <string name="BuildDate">编译日期：</string>
+    <string name="BuildTimer">编译时间：</string>
+    <string name="Cancel">取消</string>
+    <string name="ChangenextPic">"换一张"</string>
+    <string name="Clear">清除</string>
+    <string name="ConfirmedToExit">确认要退出</string>
+    <string name="ConnectDevice">已连接设备</string>
+    <string name="CopyrightInformation">版权信息</string>
+    <string name="EmailErr">提示：\n邮箱格式不正确，请重新输入！</string>
+    <string name="FactoryParameter">厂商参数设置</string>
+    <string name="FeatureSetup">功能设置</string>
+    <string name="HighPressure">气压偏高</string>
+    <string name="HighPressureSimulation">气压偏高演示</string>
+    <string name="HighTemp">温度偏高</string>
+    <string name="HighTempSimulation">温度偏高演示</string>
+    <string name="InputErr">输入错误,请重输入</string>
+    <string name="InterfaceStyleSetup">界面风格设置</string>
+    <string name="LanguageSetup">语言设置</string>
+    <string name="LowPressure">气压偏低</string>
+    <string name="LowPressureSimulation">气压偏低演示</string>
+    <string name="MHVersion">硬件版本：</string>
+    <string name="MSVersion">软件版本：</string>
+    <string name="MatchingDevice">可配对设备</string>
+    <string name="ModuleName">模块名称：</string>
+    <string name="PairedDevice">已配对设备</string>
+    <string name="PasswordErr">提示：\n密码输入不正确，请重新输入！</string>
+    <string name="PlaseRStartApp">重启软件后生效</string>
+    <string name="PleaseContectTPMS">请选择要连接的接收机</string>
+    <string name="PressureUnitSetup">压力单位</string>
+    <string name="ProVersion">协议版本：</string>
+    <string name="ReceiverInformation">接收机相关信息</string>
+    <string name="RegInfErr">提示：\n请填写完整后注册！</string>
+    <string name="Register">注册</string>
+    <string name="RegisteredSuccess">注册成功！</string>
+    <string name="ReplaceTheTireSensor">更换轮胎传感器</string>
+    <string name="RequestFailure">请求失败</string>
+    <string name="RestoreFactorySetup">恢复出厂设置</string>
+    <string name="SaveSet">保存退出</string>
+    <string name="ScreenAlwaysOnSetup">屏幕常亮设置</string>
+    <string name="SearchTireErr">搜寻轮胎错误:</string>
+    <string name="SetFailure">设置失败</string>
+    <string name="SetSuccess">设置成功</string>
+    <string name="SettingRange">设置范围:</string>
+    <string name="SimulationExperience">模拟体验</string>
+    <string name="SoftwareRegistration">软件注册</string>
+    <string name="SolwLeakage">慢漏气</string>
+    <string name="SolwLeakageSimulation">慢漏气演示</string>
+    <string name="StatusOk">状况良好!</string>
+    <string name="StatusUpdate">更新中...</string>
+    <string name="StopSearching">停止搜索</string>
+    <string name="StringAboutMe">关于</string>
+    <string name="StringCardArea">车体显示区</string>
+    <string name="StringChangeAlter1">"请选择需要更换传感器的轮胎"</string>
+    <string name="StringChangeAlter2">"\n传感器更换成功"</string>
+    <string name="StringChangeTyreInfoWarn1">"同意更换该轮胎传感器并生成验证码图片"</string>
+    <string name="StringCongratsInfo">"恭喜!\n"</string>
+    <string name="StringExchangeInfo">"对调中..."</string>
+    <string name="StringMainView">主页</string>
+    <string name="StringSearchInfo">"搜索中..."</string>
+    <string name="StringSelectAlter1">"请选择要更换的第一个轮胎"</string>
+    <string name="StringSelectAlter2">"请选择要更换的第二个轮胎"</string>
+    <string name="StringSelectAlter3">"轮胎对调"</string>
+    <string name="StringSetting">设置</string>
+    <string name="StringSuccessInfo2">"对调成功"</string>
+    <string name="StringTitleDefaultName">自定义标题栏</string>
+    <string name="StringValueArea">数值显示区</string>
+    <string name="StringVerifyAlter">请输入验证码</string>
+    <string name="StringWarnArea">报警显示区</string>
+    <string name="StringWarnHighPre">高压报警值</string>
+    <string name="StringWarnHighTemp">高温报警值</string>
+    <string name="StringWarnLowPre">低压报警值</string>
+    <string name="StringWarnNormalPre">标准充气压力</string>
+    <string name="SupportInformation">售后支持信息</string>
+    <string name="Sysinit">系统初始化</string>
+    <string name="SystemSetup">系统设置</string>
+    <string name="SystemUserManual">系统使用说明</string>
+    <string name="TemperatureUnitSetup">温度单位</string>
+    <string name="TireSwap">轮胎对调</string>
+    <string name="TrialResetSystem">尝试复位系统</string>
+    <string name="ViewHistoricaldata">历史数据查询</string>
+    <string name="ViewHistoricaldataTitle">历史数据查看</string>
+    <string name="ViewSystemLogs">日志查看</string>
+    <string name="WaitTimerOut">等待超时</string>
+    <string name="Yes">是</string>
+    <string name="about">关于</string>
+    <string name="afterSaleSupport">厦门瑞忆科技有限公司\n厦门研发中心：中国·厦门市同安区环东海域美溪道湖里工业园81号楼</string>
+    <string name="app_name">TPMS</string>
+    <string name="bluethoothClose">    关闭    </string>
+    <string name="bluethoothSearch">    蓝牙搜寻    </string>
+    <string name="brand">品牌:</string>
+    <string name="breakSenor">传感器故障!</string>
+    <string name="button_scan">Scan for devices</string>
+    <string name="carInfo">爱车信息</string>
+    <string name="carSeries">车型:</string>
+    <string name="code">密码:</string>
+    <string name="codeaffirm">确认\n密码:</string>
+    <string name="confirm">确认</string>
+    <string name="connect">Connect a device</string>
+    <string name="connect_bluetooth">蓝牙接收主机</string>
+    <string name="connect_fail">连接失败，请重试</string>
+    <string name="connect_ing">连接中</string>
+    <string name="connect_succ">连接成功!</string>
+    <string name="connect_title">请选择接收主机类型</string>
+    <string name="connect_to">连接</string>
+    <string name="connect_usb">USB接收主机</string>
+    <string name="device_disconnect">USB已被拔插</string>
+    <string name="disconnect">Disconnect connection</string>
+    <string name="discoverable">Make discoverable</string>
+    <string name="email">Email:</string>
+    <string name="exit">退出</string>
+    <string name="highPress">气压过高!</string>
+    <string name="highTemp">温度过高!</string>
+    <string name="insertInfo">输入产品SN</string>
+    <string name="leakBattery">电量不足!</string>
+    <string name="leakPress">轮胎漏气!</string>
+    <string name="lowPress">气压过低!</string>
+    <string name="name">姓名:</string>
+    <string name="nickname">昵称:</string>
+    <string name="none_found">No devices found</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="p_bar">Bar</string>
+    <string name="p_kpa">Kpa</string>
+    <string name="p_psi">PSI</string>
+    <string name="pref_setting">Preference setting</string>
+    <string name="pressUnitSample">Bar</string>
+    <string name="pressValueSample">0.95</string>
+    <string name="pressure">轮胎充气压力</string>
+    <string name="productInfo">产品信息</string>
+    <string name="productSN">产品\nSN:</string>
+    <string name="proximity_alert">Proximity alert</string>
+    <string name="rightInfo">软件所有权信息:\n世纪鸿进（厦门）电子科技有限公司 版权所有\ncopyright©2014-2020 \nCentury Hongking(Xiamen)Electronics Technology Co., Ltd</string>
+    <string name="scanning">scanning for devices...</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="select_disconnect_device">select a device to disconnect</string>
+    <string name="selfInfo">个人信息</string>
+    <string name="setting">Setting</string>
+    <string name="signal_level_pref_category">Signal level notification</string>
+    <string name="tech_support">技术支持</string>
+    <string name="tempValueSample">21℉</string>
+    <string name="testtime">_0120</string>
+    <string name="title_connected_devices">Connected Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="useTerms">使用条款</string>
+    <string name="useTermsCon">
+	  "      此版本只使用于Android平台2.3版本以上的手机，对于其他操作系统的手机上使用本软件，对于出现的任何问题，世纪鸿进公司不承担责任。\n"
+	  "      我同意世纪鸿进公司使用我提供的注册资料，用于内部研究和改善用户体验，本软件的下载、安装和使用完全免费，世纪鸿进公司不收取任何费用，下载、使用过程中产生的数据流量费用，由运营商收取。\n"
+	</string>
+    <string name="version_name">-B1124-001</string>
+    <string name="warnCapacity">报警数值设置</string>
+    <string name="warnReset">是否恢复出厂设置，恢复后请重新连接接收机</string>
+    <string name="year">年份:</string>
+    <style name="AlertDialogCustom" parent="@android:style/Theme.Dialog">
+        <item name="android:textColor">#00FF00</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+    <style name="AppBaseTheme" parent="android:Theme.Light.NoTitleBar">
+        
+    </style>
+    <style name="AppTheme" parent="@android:style/Theme.Translucent.NoTitleBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        
+    </style>
+    <style name="CustomWindowTitleBackground">
+        <item name="android:background">@drawable/title_bg</item>
+    </style>
+    <style name="DialogText">
+        <item name="android:textColor">#FFFFFFFF</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="DialogText.Title">
+        <item name="android:textColor">#CCFFFFFF</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="MyTheme1" parent="@android:style/Theme.Dialog"/>
+    <style name="MyTheme2" parent="@android:style/android:Theme.Translucent"/>
+    <style name="MyTheme3" parent="@android:Theme.Black"> 
+
+    </style>
+    <style name="Theme.ShareDialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/set_dialog</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="button_dialog_theme">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">@dimen/text_size_mid</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:paddingRight">20dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">@dimen/btn_size_mid</item>
+        <item name="android:background">@drawable/btn_theme</item>
+        
+    </style>
+    <style name="button_dialog_theme_cancel">
+        <item name="android:textColor">@color/theme_color</item>
+        <item name="android:textSize">@dimen/text_size_mid</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:paddingRight">20dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">@dimen/btn_size_mid</item>
+        <item name="android:background">@drawable/btn_cancel_bg</item>
+        
+    </style>
+    <style name="button_theme">
+        <item name="android:textColor">#FFFFFFFF</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:paddingRight">20dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/btn_theme</item>
+        
+    </style>
+    <style name="dialogStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/dialog_style</item>
+    </style>
+    <style name="dialog_button_text">
+        <item name="android:textColor">#FFFFFFFF</item>
+        <item name="android:textSize">18sp</item>
+        
+    </style>
+    <style name="divider_h">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1px</item>
+        <item name="android:background">@color/lightgray</item>
+    </style>
+    <style name="divider_v">
+        <item name="android:layout_width">1px</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@color/lightgray</item>
+    </style>
+    <style name="main_tab_bottom">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#80ffffff</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center_horizontal|bottom</item>
+        <item name="android:paddingTop">1dp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:button">@null</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:drawablePadding">0dp</item>
+        <item name="android:paddingRight">0dp</item>
+        <item name="android:layout_weight">1.0</item>
+        
+    </style>
+    <style name="main_tab_bottom_land">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#80ffffff</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center_horizontal|bottom</item>
+        <item name="android:paddingLeft">1dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:button">@null</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:drawablePadding">0dp</item>
+        <item name="android:paddingRight">0dp</item>
+        <item name="android:layout_weight">1.0</item>
+        
+    </style>
+    <style name="main_value_view">
+        <item name="android:textColor">#ffffffff</item>
+        
+    </style>
+    <style name="myProgressBarStyleLarge">
+
+	銆�銆�        <item name="android:indeterminateDrawable">@drawable/progress_large</item>
+
+	銆�銆�        <item name="android:minWidth">56dip</item>
+
+	銆�銆�        <item name="android:maxWidth">56dip</item>
+
+	銆�銆�        <item name="android:minHeight">56dip</item>
+
+	銆�銆�        <item name="android:maxHeight">56dip</item>
+    </style>
+    <style name="my_edittext_style" parent="@android:style/Widget.EditText">
+        <item name="android:background">@drawable/my_edittext</item>
+    </style>
+    <style name="test" parent="AppTheme">
+        <item name="android:windowTitleSize">50dp</item>
+        <item name="android:windowTitleBackgroundStyle">@style/CustomWindowTitleBackground</item>
+    </style>
+    <style name="textStyle1">
+        <item name="android:textColor">#80FFFFFF</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+</resources>

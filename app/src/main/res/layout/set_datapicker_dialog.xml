@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:id="@+id/LinearLayout01"   
+    android:layout_gravity="center"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content" 
+    android:orientation="vertical" 
+    android:background="@drawable/dialog_background" >  
+
+	<LinearLayout
+	    android:id="@+id/blank01"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_margin="15dp"
+	    android:orientation="vertical" >
+		<TextView
+	        android:id="@+id/title"
+	        style="@style/DialogText.Title"
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+	        android:gravity="center"
+	        android:visibility="gone"/>
+		<TextView
+	        android:id="@+id/message"
+	        style="@style/DialogText.Title"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:gravity="center"/>
+	</LinearLayout>
+	
+	<LinearLayout
+		android:id="@+id/content"
+		android:orientation="vertical"		
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content">
+
+		<LinearLayout
+		    android:id="@+id/blank02"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:orientation="vertical" >
+	
+		</LinearLayout>
+		
+		<LinearLayout
+		    android:id="@+id/value"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+			android:layout_gravity="center"
+		    android:orientation="horizontal" >
+			<LinearLayout
+			    android:layout_width="fill_parent"
+			    android:layout_height="fill_parent"
+				android:layout_weight="7" 
+				android:orientation="horizontal"
+				>
+
+				<TextView
+			        android:id="@+id/symbolTitle"
+			        style="@style/DialogText"
+			        android:layout_width="fill_parent"
+			        android:layout_height="fill_parent"
+			        android:gravity="center"
+			        android:textSize="28sp"
+			        />
+			
+			</LinearLayout>	
+
+	    	<LinearLayout
+			    android:id="@+id/hundreds"
+			    android:layout_width="fill_parent"
+			    android:layout_height="wrap_content"
+				android:layout_weight="7" 
+				android:orientation="horizontal">
+					
+					
+				<LinearLayout
+				    android:layout_width="fill_parent"
+			    	android:layout_height="wrap_content"
+					android:layout_weight="1" 
+					android:orientation="vertical"
+					android:gravity="center">
+					<Button
+						android:id="@+id/hundredsIncButton"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:background="@drawable/ic_launcher1"
+			 	    />
+
+					<TextView
+					    android:id="@+id/hundredsText"
+					    style="@style/DialogText"
+					    android:layout_width="fill_parent"
+					    android:layout_height="wrap_content"
+					    android:layout_margin="5dp"
+					    android:layout_weight="1"
+					    android:gravity="center" />
+
+			    	<Button
+						android:id="@+id/hundredsDecButton"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:background="@drawable/ic_launcher1"
+				 	    />
+			    </LinearLayout>
+			    
+				
+			    <LinearLayout
+    		    
+    		    android:layout_width="fill_parent"
+    		    android:layout_height="fill_parent"
+    		    android:layout_weight="4" 
+    		    android:gravity="center" >
+
+				<TextView
+			        android:id="@+id/hundredsPoint"
+			        style="@style/DialogText"
+			        android:layout_width="fill_parent"
+			        android:layout_height="wrap_content"
+			        android:gravity="center"/>
+				</LinearLayout>
+			</LinearLayout>
+
+			<LinearLayout
+			    android:id="@+id/decade"
+			    android:layout_width="fill_parent"
+			    android:layout_height="wrap_content"
+				android:layout_weight="7" 
+				android:orientation="horizontal">
+					
+					
+				<LinearLayout
+			    android:layout_width="fill_parent"
+			    android:layout_height="wrap_content"
+				android:layout_weight="1" 
+				android:orientation="vertical"
+				android:gravity="center"
+				>
+				<Button
+					android:id="@+id/decadeIncButton"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:background="@drawable/ic_launcher1"
+					android:layout_weight="1"
+			 	    />
+	
+			    <TextView
+			        android:id="@+id/decadeText"
+			        style="@style/DialogText"
+			        android:layout_width="fill_parent"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:layout_margin="5dp"
+			        android:gravity="center"/>
+
+			    <Button
+					android:id="@+id/decadeDecButton"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:background="@drawable/ic_launcher1"
+			 	    />
+			    </LinearLayout>
+			    <LinearLayout
+    		    
+    		    android:layout_width="fill_parent"
+    		    android:layout_height="fill_parent"
+    		    android:layout_weight="4"
+    		    android:gravity="center" >
+
+				<TextView
+			        android:id="@+id/decadePoint"
+			        style="@style/DialogText"
+			        android:layout_width="fill_parent"
+			        android:layout_height="wrap_content"
+			        android:gravity="center"/>
+				</LinearLayout>
+			</LinearLayout>
+				
+		<LinearLayout
+		    android:id="@+id/units"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+			android:layout_weight="7" 
+			android:orientation="horizontal"
+			>
+
+			<LinearLayout
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:layout_weight="1" 
+			android:orientation="vertical"
+			android:gravity="center"
+			>
+			<Button
+				android:id="@+id/unitsIncButton"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:background="@drawable/ic_launcher1"
+		 	    />
+
+		    <TextView
+		        android:id="@+id/unitsText"
+		        style="@style/DialogText"
+		        android:layout_width="fill_parent"
+		        android:layout_height="wrap_content"
+		        android:layout_weight="1"
+		        android:layout_margin="5dp"
+		        android:gravity="center"/>
+
+		    <Button
+				android:id="@+id/unitsDecButton"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:background="@drawable/ic_launcher1"
+		 	    />
+		    
+		    </LinearLayout>
+		    
+		    <LinearLayout
+   		    android:layout_width="fill_parent"
+   		    android:layout_height="fill_parent"
+   		    android:layout_weight="4"  
+    		android:gravity="center"
+   		    >
+
+			<TextView
+		        android:id="@+id/unitspoint"
+		        style="@style/DialogText"
+		        android:layout_width="fill_parent"
+		        android:layout_height="wrap_content"
+		        android:gravity="center"/>
+			</LinearLayout>
+		</LinearLayout>
+		<LinearLayout
+		    android:layout_width="fill_parent"
+		    android:layout_height="fill_parent"
+			android:layout_weight="7" 
+			android:orientation="horizontal"
+			>
+
+			<TextView
+		        android:id="@+id/unitTitle"
+		        style="@style/DialogText"
+		        android:layout_width="fill_parent"
+		        android:layout_height="fill_parent"
+		        android:gravity="center_vertical"/>
+			
+		</LinearLayout>		
+		</LinearLayout>
+		
+		<LinearLayout
+		    android:id="@+id/pressureacope"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:layout_weight="10"
+		    android:orientation="vertical" >
+			
+			<TextView
+			    android:id="@+id/scopeText"
+			    style="@style/DialogText"
+			    android:textColor="@color/display_text"
+			    android:layout_width="fill_parent"
+			    android:layout_height="match_parent"
+			    android:layout_marginTop="10dp"
+			    android:gravity="center"/>
+
+		</LinearLayout>
+	</LinearLayout>
+		
+
+
+	<LinearLayout
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal" >
+ 		<Button
+			android:id="@+id/negativeButton"
+			android:layout_marginTop="20dp"
+			android:layout_marginBottom="20dp"
+			android:layout_marginLeft="30dp"
+			android:layout_marginRight="10dp"
+			android:layout_weight="1"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:background="@drawable/button_shape_cancel"
+			style="@style/dialog_button_text"
+			/>
+
+ 		<Button
+			android:id="@+id/positiveButton"
+			android:layout_marginTop="20dp"
+			android:layout_marginBottom="20dp"
+			android:layout_marginLeft="10dp"
+			android:layout_marginRight="30dp"
+			android:layout_weight="1"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:background="@drawable/button_shape_confirm"
+			style="@style/dialog_button_text"
+	    	/>
+
+	</LinearLayout>
+</LinearLayout>

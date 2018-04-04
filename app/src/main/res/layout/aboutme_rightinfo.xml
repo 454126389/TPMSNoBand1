@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<LinearLayout   
+    android:layout_width="fill_parent"   
+    android:layout_height="fill_parent"   
+    android:orientation="vertical"
+	android:background="#000000"
+    xmlns:android="http://schemas.android.com/apk/res/android">  
+    <!-- 标题栏 -->       
+	<include layout="@layout/setting_title"></include>
+	<!-- 标题栏 -->
+	<ScrollView
+		android:layout_width="match_parent"
+		android:scrollbars="none"
+		android:layout_height="match_parent">
+	<LinearLayout   
+    android:id="@+id/content"   
+    android:layout_width="fill_parent"   
+    android:layout_height="fill_parent"
+    android:padding="10dp"
+     >
+    
+    <TextView
+        
+	    android:id="@+id/DebugViewLine1"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:text="@string/rightInfo"
+	    style="@style/DialogText"
+		android:textSize="18sp"
+	    android:layout_marginLeft="1dp"
+	    android:layout_marginTop="5dp"
+	    android:padding="1dp"
+	    android:lineSpacingExtra="5dip">
+    </TextView>   
+    </LinearLayout>
+	</ScrollView>
+</LinearLayout>  

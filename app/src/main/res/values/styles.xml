@@ -1,0 +1,74 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light.NoTitleBar">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="@android:style/Theme.Translucent.NoTitleBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <style name="MyTheme1" parent="@android:style/Theme.Dialog"></style>
+
+    <style name="MyTheme2" parent="@android:style/android:Theme.Translucent"></style>
+
+    <style name="MyTheme3" parent="@android:Theme.Black"> <!-- parent="@android:style/android:Theme.Black" -->
+
+    </style>
+
+    <style name="CustomWindowTitleBackground">
+        <item name="android:background">@drawable/title_bg</item>
+    </style>
+
+    <style name="test" parent="AppTheme">
+        <item name="android:windowTitleSize">50dp</item>
+        <item name="android:windowTitleBackgroundStyle">@style/CustomWindowTitleBackground</item>
+    </style>
+
+    <style name="my_edittext_style" parent="@android:style/Widget.EditText">
+        <item name="android:background">@drawable/my_edittext</item>
+    </style>
+
+    <style name="dialogStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/dialog_style</item>
+    </style>
+
+    <style name="myProgressBarStyleLarge">
+
+	銆�銆�        <item name="android:indeterminateDrawable">@drawable/progress_large</item>
+
+	銆�銆�        <item name="android:minWidth">56dip</item>
+
+	銆�銆�        <item name="android:maxWidth">56dip</item>
+
+	銆�銆�        <item name="android:minHeight">56dip</item>
+
+	銆�銆�        <item name="android:maxHeight">56dip</item>
+    </style>
+
+    <style name="divider_h">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1px</item>
+        <item name="android:background">@color/lightgray</item>
+    </style>
+
+    <style name="divider_v">
+        <item name="android:layout_width">1px</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@color/lightgray</item>
+    </style>
+
+</resources>

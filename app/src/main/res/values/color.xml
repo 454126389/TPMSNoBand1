@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="title_bg">#EE5F5F5F</color>
+    <color name="display_style1">#FF5E94A2</color>
+    <color name="display_style2">#EE148DA3</color>
+    <color name="display_text">#FF009888</color>
+    <color name="tabhost_color">#353535</color>
+    <color name="dialog_bg">#00FFFFFF</color>
+    <color name="display_touch">#F0000000</color>
+    <color name="display_bg">#262626</color>
+    <color name="spinner_bg">#F0000000</color>
+    <color name="text_color">#FFFFFF</color>
+    <color name="list_text_color">#80FFFFFF</color>
+    <color name="list_title_color">#CCFFFFFF</color>
+    <color name="warnArea_bg">#00000000</color>
+    <color name="warnDisplay">#df3c77</color>
+    <color name="normalTempDisplay">#CCFFFFFF</color>
+    <color name="normalPressDisplay">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="translucent">#3f000000</color>
+    <color name="theme_color">#4fb192</color>
+    <color name="theme_color1">#156940</color>
+    <color name="theme_color_dark">#4fa192</color>
+    <color name="lightgray">#D3D3D3</color>
+    <color name="gray_bg">#dbdbdb</color>
+    <color name="gray_fg">#d2d2d2</color>
+</resources>

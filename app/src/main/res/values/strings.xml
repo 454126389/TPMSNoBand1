@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+    <string name="app_name">TPMS</string> 
+    <!--string name="app_content">胎压监测系统</string--> 
+    <string name="version_name">-B1124-001</string>
+
+    <string name="exit">退出</string>
+    <string name="about">关于</string>
+    
+	<!-- 系统初始化页面 -->
+	<string name="Sysinit">系统初始化</string>
+	<string name="Bluetooth">蓝牙</string>
+	<string name="BluetoothConnection">蓝牙连接</string>
+	<string name="BluetoothSettings">蓝牙设置</string>
+	<string name="PleaseContectTPMS">请选择要连接的接收机</string>
+	<string name="BluetoothConnectionOK">TPMS接收机连接成功</string>
+	<string name="BluetoothConnectionFailue">接收机连接失败</string>
+	<string name="BluetoothConnectionBreak">TPMS接收机断开</string>
+	<string name="PairedDevice">已配对设备</string>
+	<string name="MatchingDevice">可配对设备</string>
+	<string name="ConnectDevice">已连接设备</string>
+	<string name="bluethoothSearch">    蓝牙搜寻    </string>
+
+	<string name="bluethoothClose">    关闭    </string>
+
+	<string name="TrialResetSystem">尝试复位系统</string>
+	
+	<string name="SimulationExperience">模拟体验</string>
+	<string name="SolwLeakage">慢漏气</string>
+	<string name="HighPressure">气压偏高</string>
+	<string name="LowPressure">气压偏低</string>
+	<string name="HighTemp">温度偏高</string>
+	<string name="ViewHistoricaldata">历史数据查询</string>
+	
+	<string name="SolwLeakageSimulation">慢漏气演示</string>
+	<string name="HighPressureSimulation">气压偏高演示</string>
+	<string name="LowPressureSimulation">气压偏低演示</string>
+	<string name="HighTempSimulation">温度偏高演示</string>
+	<string name="ViewHistoricaldataTitle">历史数据查看</string>
+	
+	<string name="confirm">确认</string>
+	<string name="Cancel">取消</string>
+	<string name="Clear">清除</string>
+	<string name="Back">返回</string>
+	<string name="SetFailure">设置失败</string>
+	<string name="SetSuccess">设置成功</string>
+	<string name="SaveSet">保存退出</string>
+	<string name="InputErr">输入错误,请重输入</string>
+	<string name="WaitTimerOut">等待超时</string>
+	<string name="Yes">是</string>
+	<string name="RequestFailure">请求失败</string>
+	<string name="ConfirmedToExit">确认要退出</string>
+	<string name="And">和</string>
+	<string name="PlaseRStartApp">重启软件后生效</string>
+	
+	
+	<string name="tempValueSample">21℉</string>
+	<string name="pressValueSample">0.95</string>
+	<string name="pressUnitSample">Bar</string>
+	
+	<string name="StatusUpdate">更新中...</string>
+	<string name="StatusOk">状况良好!</string>
+	<string name="highPress">气压过高!</string>	
+	<string name="lowPress">气压过低!</string>
+	<string name="highTemp">温度过高!</string>
+	<string name="leakPress">轮胎漏气!</string>
+	<string name="leakBattery">电量不足!</string>
+	<string name="breakSenor">传感器故障!</string>
+	<string name="BackgroundAlarm">胎压出现异常,立即处理!</string>
+	
+	<string name="StringMainView">主页</string>
+	<string name="StringSetting">设置</string>
+	<string name="StringAboutMe">关于</string>
+	
+	
+	
+	<string name="warnReset">是否恢复出厂设置，恢复后请重新连接接收机</string>
+	
+	<string name="warnCapacity">报警数值设置</string>
+  
+<!--*******************************about页面************************************-->
+	<string name="SoftwareRegistration">软件注册</string>
+	<string name="CopyrightInformation">版权信息</string>
+	<string name="SystemUserManual">系统使用说明</string>
+	<string name="SupportInformation">售后支持信息</string>
+	<string name="ViewSystemLogs">日志查看</string>
+	
+	<string name="rightInfo">软件所有权信息:\n世纪鸿进（厦门）电子科技有限公司 版权所有\ncopyright&#169;2014-2020 \nCentury Hongking(Xiamen)Electronics Technology Co., Ltd</string> 
+	 
+		
+	<string name="AppVersion">应用软件版本</string>
+	<string name="ReceiverInformation">接收机相关信息</string>
+	<string name="ModuleName">模块名称：</string>
+	<string name="MSVersion">软件版本：</string>
+	<string name="BuildTimer">编译时间：</string>
+	<string name="BuildDate">编译日期：</string>
+	<string name="MHVersion">硬件版本：</string>
+	<string name="ProVersion">协议版本：</string>
+	
+	<string name="productSN">产品\nSN:</string> 
+	<string name="insertInfo">输入产品SN</string> 
+	<string name="useTermsCon">
+	  "      此版本只使用于Android平台2.3版本以上的手机，对于其他操作系统的手机上使用本软件，对于出现的任何问题，世纪鸿进公司不承担责任。\n"
+	  "      我同意世纪鸿进公司使用我提供的注册资料，用于内部研究和改善用户体验，本软件的下载、安装和使用完全免费，世纪鸿进公司不收取任何费用，下载、使用过程中产生的数据流量费用，由运营商收取。\n"
+	</string> 
+	<string name="carInfo">爱车信息</string> 
+	<string name="brand">品牌:</string> 
+	<string name="carSeries">车型:</string> 
+	<string name="year">年份:</string> 
+	<string name="pressure">轮胎充气压力</string> 
+	<string name="selfInfo">个人信息</string> 
+	<string name="name">姓名:</string> 
+	<string name="nickname">昵称:</string> 
+	<string name="code">密码:</string> 
+	<string name="codeaffirm">确认\n密码:</string> 
+	<string name="email">Email:</string> 
+	<string name="productInfo">产品信息</string> 
+	<string name="useTerms">使用条款</string> 
+	<string name="Register">注册</string> 
+	<string name="PasswordErr">提示：\n密码输入不正确，请重新输入！</string> 
+	<string name="EmailErr">提示：\n邮箱格式不正确，请重新输入！</string> 
+	<string name="RegInfErr">提示：\n请填写完整后注册！</string>
+	<string name="RegisteredSuccess">注册成功！</string>  
+	
+	
+	<string name="afterSaleSupport">厦门瑞忆科技有限公司\n厦门研发中心：中国·厦门市同安区环东海域美溪道湖里工业园81号楼</string>
+<!--*******************************设置页面************************************-->
+	<string name="FeatureSetup">功能设置</string>
+	<string name="PressureUnitSetup">压力单位</string>
+	<string name="TemperatureUnitSetup">温度单位</string>
+	<string name="AlarmValueSetup">报警值设置</string>
+	<string name="ReplaceTheTireSensor">更换轮胎传感器</string>
+	<string name="TireSwap">轮胎对调</string>
+	
+	<string name="SystemSetup">系统设置</string>
+	<string name="InterfaceStyleSetup">界面风格设置</string>
+	<string name="ScreenAlwaysOnSetup">屏幕常亮设置</string>
+	<string name="LanguageSetup">语言设置</string>
+	<string name="RestoreFactorySetup">恢复出厂设置</string>
+	<string name="FactoryParameter">厂商参数设置</string>
+
+	<string name="AutoStartSetup">开机启动设置</string>
+
+	
+	<string name="ChangenextPic">"换一张"</string>
+	<string name="StringChangeAlter1">"请选择需要更换传感器的轮胎"</string>
+	<string name="StringChangeAlter2">"\n传感器更换成功"</string>
+	<string name="StringChangeTyreInfoWarn1">"同意更换该轮胎传感器并生成验证码图片"</string>
+	<string name="StringVerifyAlter">请输入验证码</string>
+	<string name="StringSearchInfo">"搜索中..."</string>
+	<string name="StopSearching">停止搜索</string>
+	<string name="SearchTireErr">搜寻轮胎错误:</string>
+	
+	<string name="StringSelectAlter1">"请选择要更换的第一个轮胎"</string>
+	<string name="StringSelectAlter2">"请选择要更换的第二个轮胎"</string>
+	<string name="StringSelectAlter3">"轮胎对调"</string>
+	<string name="StringExchangeInfo">"对调中..."</string>
+	<string name="StringCongratsInfo">"恭喜!\n"</string>
+	<string name="StringSuccessInfo2">"对调成功"</string>
+	
+	<string name="StringWarnNormalPre">标准充气压力</string>
+	<string name="StringWarnHighPre">高压报警值</string>
+	<string name="StringWarnLowPre">低压报警值</string>
+	<string name="StringWarnHighTemp">高温报警值</string>
+	<string name="SettingRange">设置范围:</string>
+	
+	<string name="StringValueArea">数值显示区</string>
+	<string name="StringCardArea">车体显示区</string>
+	<string name="StringWarnArea">报警显示区</string>
+	
+	<string name="StringTitleDefaultName">自定义标题栏</string>
+	
+	<!--  DeviceListActivity -->
+    <string name="scanning">scanning for devices...</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+    
+    <!--  ConnectedDeviceListActivity -->
+    <string name="title_connected_devices">Connected Devices</string>
+    <string name="select_disconnect_device">select a device to disconnect</string>
+    
+    <!--  AboutInfoActivity -->
+
+
+    <!-- Options Menu -->
+    <string name="connect">Connect a device</string>
+    <string name="discoverable">Make discoverable</string>
+    <string name="disconnect">Disconnect connection</string>
+    <string name="setting">Setting</string>
+    
+    
+    <!--  AudioStateModel -->
+    <string name="proximity_alert">Proximity alert</string>
+    
+    <!--  SettingPreferenceActivity -->
+    <string name="signal_level_pref_category">Signal level notification</string>
+    
+    <!-- Settings Menu -->
+    <string name="pref_setting">Preference setting</string>	
+    
+    
+    <string name="connect_title">请选择接收主机类型</string>
+    <string name="connect_usb">USB接收主机</string>
+    <string name="connect_bluetooth">蓝牙接收主机</string>
+    <string name="tech_support">技术支持</string>
+    <string name="connect_succ">连接成功!</string>
+    <string name="connect_fail">连接失败，请重试</string>
+    <string name="connect_ing">连接中</string>
+    <string name="connect_to">连接</string>
+    
+    <string name="device_disconnect">USB已被拔插</string>
+    
+    <string name="p_bar">Bar</string>
+    <string name="p_psi">PSI</string>
+    <string name="p_kpa">Kpa</string>
+    <string name="testtime">_0120</string>
+</resources>

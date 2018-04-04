@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout01"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="@drawable/bg_white"
+    android:minWidth="300dp"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/blank01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="6dp"
+        android:gravity="center_horizontal"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/title"
+            style="@style/DialogText.Title"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="@string/TemperatureUnitSetup"
+            android:textSize="34sp"
+            android:textColor="@color/theme_color" />
+    </LinearLayout>
+
+    <RadioGroup
+        android:id="@+id/p_group"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="6dp"
+        android:orientation="vertical" >
+
+        <RadioButton
+            android:id="@+id/t_c"
+            android:layout_width="wrap_content"
+            android:layout_height="34dp"
+            android:button="@drawable/radio_selector"
+            android:text="℃"
+            android:textSize="23sp"
+            android:textColor="@color/theme_color" />
+
+        <RadioButton
+            android:id="@+id/t_f"
+            android:layout_width="wrap_content"
+            android:layout_height="34dp"
+            android:layout_marginTop="10dp"
+            android:button="@drawable/radio_selector"
+            android:text="℉"
+            android:textSize="23sp"
+            android:textColor="@color/theme_color" />
+    </RadioGroup>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="14dp"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/p_confirm"
+            style="@style/button_dialog_theme"
+            android:textSize="23sp"
+            android:gravity="center"
+            android:layout_height="wrap_content"
+            android:text="@string/confirm" />
+
+        <Button
+            android:id="@+id/p_cancel"
+            style="@style/button_dialog_theme_cancel"
+            android:textSize="23sp"
+            android:gravity="center"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="46dp"
+            android:text="@string/Cancel" />
+    </LinearLayout>
+
+</LinearLayout>

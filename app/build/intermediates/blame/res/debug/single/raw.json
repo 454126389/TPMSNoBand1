@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\rb.mp3",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\raw\\rb.mp3"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\lb.mp3",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\raw\\lb.mp3"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ns.mp3",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\raw\\ns.mp3"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sound2.mp3",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\raw\\sound2.mp3"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\pressleak.mp3",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\raw\\pressleak.mp3"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\lf.mp3",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\raw\\lf.mp3"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sound1.mp3",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\raw\\sound1.mp3"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\promptprocessnow.mp3",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\raw\\promptprocessnow.mp3"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\lowb.mp3",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\raw\\lowb.mp3"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sound4.mp3",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\raw\\sound4.mp3"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\presslow.mp3",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\raw\\presslow.mp3"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\temphigh.mp3",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\raw\\temphigh.mp3"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\rf.mp3",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\raw\\rf.mp3"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\presshigh.mp3",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\raw\\presshigh.mp3"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sound3.mp3",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\raw\\sound3.mp3"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\warn.mp3",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\raw\\warn.mp3"
+    }
+]

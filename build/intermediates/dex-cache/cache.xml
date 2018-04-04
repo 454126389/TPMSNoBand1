@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\TPMS_201702101329\TPMSNoBand1\app\libs\gson-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53bfcd3c8e310d1493b2691484525ed90b04e236">
+        <dex dex="E:\TPMS_201702101329\TPMSNoBand1\app\build\intermediates\pre-dexed\debug\gson-2.2.2_d8848f186eabefd4f281ed021fe3a71e311a69e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\TPMS_201702101329\TPMSNoBand1\app\libs\bugly_1.2.9_release.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a5b2b7c5844d1692ee9a6e43af2e4d61ae3cbc65">
+        <dex dex="E:\TPMS_201702101329\TPMSNoBand1\app\build\intermediates\pre-dexed\debug\bugly_1.2.9_release_ca7f1a02cd784d8fe687800f8552adf000eb8848.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\de.greenrobot\eventbus\2.4.0\ddd166d01b3158d1c00576d29f7ed15c030df719\eventbus-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="E:\TPMS_201702101329\TPMSNoBand1\app\build\intermediates\pre-dexed\debug\eventbus-2.4.0_03e25c6b3178abc8ecb48b05be1f281aa0724b29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\TPMS_201702101329\TPMSNoBand1\app\libs\android-async-http-1.4.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
+        <dex dex="E:\TPMS_201702101329\TPMSNoBand1\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.8_eedf0dabd930535523fa417990f9d7a311efa56c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\TPMS_201702101329\TPMSNoBand1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_4b5a6ed7e9e22e88e5c55e2e8f15ad0f8f4e50c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\TPMS_201702101329\TPMSNoBand1\app\libs\CH34xDriver.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="62daf61b6a7ef282bd11f802da23eb73830e58b9">
+        <dex dex="E:\TPMS_201702101329\TPMSNoBand1\app\build\intermediates\pre-dexed\debug\CH34xDriver_0302bb1e92548a470609a3f31b8661a1058ce758.jar" />
+    </item>
+
+</items>

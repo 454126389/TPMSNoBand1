@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/parentPanel"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_margin="-20dp"
+    android:background="@drawable/bg_white_conner"
+    android:gravity="center"
+    android:minWidth="300dp"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/title"
+            style="@style/DialogText.Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="8dip"
+            android:paddingRight="8dip"
+            android:textColor="@color/theme_color" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/contentPanel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <ScrollView
+            android:id="@+id/scrollView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:overScrollMode="ifContentScrolls"
+            android:paddingBottom="12dip"
+            android:paddingTop="2dip" >
+
+            <TextView
+                android:id="@+id/message"
+                style="@style/DialogText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textSize="35sp"
+                android:textColor="@color/theme_color"
+                android:paddingLeft="15dip"
+                android:paddingRight="15dp" />
+        </ScrollView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center" >
+
+        <Button
+            android:id="@+id/positiveButton"
+            style="@style/button_theme"
+            android:layout_width="wrap_content"
+            android:paddingLeft="30dp"
+            android:paddingRight="30dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:textSize="35sp"
+            android:gravity="center"
+            android:layout_marginTop="20dp" />
+    </LinearLayout>
+
+</LinearLayout>

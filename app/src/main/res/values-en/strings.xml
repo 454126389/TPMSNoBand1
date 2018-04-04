@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+    <string name="app_name">TPMS</string> 
+    <!--string name="app_content">TPMS</string--> 
+    <string name="version_name">-B1124-001</string>
+
+    <string name="exit">exit</string>
+    <string name="about">about</string>
+	<!-- 系统初始化页面 -->
+	<string name="Sysinit">System Initialization</string>
+	<string name="Bluetooth">Bluetooth</string>
+	<string name="BluetoothConnection">Bluetooth Connection</string>
+	<string name="BluetoothSettings">Bluetooth Setting</string>
+	<string name="BluetoothConnectionOK">TPMS Connection Success</string>
+	<string name="BluetoothConnectionFailue">TPMS Connection Failure</string>
+	<string name="BluetoothConnectionBreak">TPMS Connection Break</string>
+	<string name="PairedDevice">Paired Device</string>
+	<string name="MatchingDevice">Matching Device</string>
+	<string name="ConnectDevice">Connect Device</string>
+	<string name="bluethoothSearch">bluethooth Search</string>
+	<string name="TrialResetSystem">Trial Reset System</string>
+	
+	<string name="SimulationExperience">Simulation Experience</string>
+	<string name="SolwLeakage">Solw-Leakage</string>
+	<string name="HighPressure">High-Pressure</string>
+	<string name="LowPressure">Low-Pressure</string>
+	<string name="HighTemp">High-Temperture</string>
+	<string name="ViewHistoricaldata">View Historical data</string>
+	
+	<string name="SolwLeakageSimulation">Solw-Leakage Simulation</string>
+	<string name="HighPressureSimulation">High-Pressure Simulation</string>
+	<string name="LowPressureSimulation">Low-Pressure Simulation</string>
+	<string name="HighTempSimulation">High-Temp. Simulation</string>
+	<string name="ViewHistoricaldataTitle">View Historical data</string>
+	
+	<string name="confirm">OK</string>
+	<string name="Cancel">Cancel</string>
+	<string name="Clear">Clear</string>
+	<string name="Back">Back</string>
+	<string name="SetFailure">Set Failure</string>
+	<string name="SetSuccess">Set Success</string>
+	<string name="SaveSet">Save&#38;Exit</string>
+	<string name="InputErr">Input error, please input again</string>
+	<string name="WaitTimerOut">Waiting timeout</string>
+	<string name="Yes">Yes</string>
+	<string name="RequestFailure">Request failure</string>
+	<string name="ConfirmedToExit">Confirmed to exit</string>
+	<string name="And">And</string>
+	<string name="PlaseRStartApp">Please re-start App</string>
+	<string name="PleaseContectTPMS">PleaseContectTPMS</string>
+	<string name="tempValueSample">21℃</string>
+	<string name="pressValueSample">1.95</string>
+	<string name="pressUnitSample">Kpa</string>
+	
+	<string name="StatusUpdate">Updating...</string>
+	<string name="StatusOk">Good Order!</string>
+	<string name="highPress">Hig-P!</string>	
+	<string name="lowPress">Low-P!</string>
+	<string name="highTemp">Hig-T!</string>
+	<string name="leakPress">Leak!</string>
+	<string name="leakBattery">Low-B!</string>
+	<string name="breakSenor">TPM Fault!</string>
+	<string name="BackgroundAlarm">Abnormal！ deal with immediately</string>
+	
+	<string name="StringMainView">Home</string>
+	<string name="StringSetting">Settings</string>
+	<string name="StringAboutMe">About</string>
+	
+	
+	
+	<string name="warnReset">The receiver will restore the\nfactory settings and Bluetooth\nwill disconnect!</string>
+	
+	<string name="warnCapacity">alarm Value Setting</string>
+  
+<!--*******************************about页面************************************-->
+	<string name="SoftwareRegistration">Software registration</string>
+	<string name="CopyrightInformation">Copyright information</string>
+	<string name="SystemUserManual">System User Manual</string>
+	<string name="SupportInformation">Support Information</string>
+	<string name="ViewSystemLogs">View System Logs</string>
+	
+	<string name="rightInfo">Software ownership information:\nCopyringht&#169;2014-2020\nCentury Hongking(Xiamen)Electronics Technology Co., Ltd</string> 
+	 
+		
+	<string name="AppVersion">App Version:</string>
+	<string name="ReceiverInformation">Receiver Information:</string>
+	<string name="ModuleName">Module Name:</string>
+	<string name="MSVersion">Soft Version:</string>
+	<string name="BuildTimer">Build Time:</string>
+	<string name="BuildDate">Build Date:</string>
+	<string name="MHVersion">Hard Version:</string>
+	<string name="ProVersion">Protocol Version:</string>
+	
+	<string name="productSN">Product\nS/N:</string> 
+	<string name="insertInfo">Input product SN</string> 
+	<string name="useTermsCon">
+	  "      This version is only used for mobile phone Android platform version 2.3 and above,Century Hongking company does not responsible for any problems causing by operation the software on other mobile phone systems.\n"
+	  "      I agree with the century Hongking using the registration information i provide to internal research and improve the user experience.  This software to downloading,installation and using are completely free,Century Hongking does not charge any fees.Data flow cost to download and during use will be charged by operators.\n"
+	</string> 
+	<string name="carInfo">Car Info</string> 
+	<string name="brand">Brand:</string> 
+	<string name="carSeries">Model:</string> 
+	<string name="year">Year:</string> 
+	<string name="pressure">Standard PRESS</string> 
+	<string name="selfInfo">user Info</string> 
+	<string name="name">Name:</string> 
+	<string name="nickname">Nick:</string> 
+	<string name="code">Code:</string> 
+	<string name="codeaffirm">Code\nAgain:</string> 
+	<string name="email">Email:</string> 
+	<string name="productInfo">Product Info</string> 
+	<string name="useTerms">Use Terms</string> 
+	<string name="Register">Register</string> 
+	<string name="PasswordErr">Tip:\nPassword is incorrect,please re&#45;enter!</string> 
+	<string name="EmailErr">Tip:\nEmail addr. format is incorrect, please re&#45;enter!</string> 
+	<string name="RegInfErr">Tip:\nPlease fill in the complete info. before registration!</string>
+	<string name="RegisteredSuccess">Registered success!</string>  
+	
+	
+	<string name="afterSaleSupport">Email：support@china-tpms.com\nPhone：+86-400-822-6869\nWebsite:www.china-tpms.com\nAddress:\n3F Building 52,Meixi AVenue,\nTong an District,Xiamen Fujian,P.R.China\n</string>
+<!--*******************************设置页面************************************-->
+	<string name="FeatureSetup">Feature Setting</string>
+	<string name="PressureUnitSetup">PRESS. Unit Setting</string>
+	<string name="TemperatureUnitSetup">TEMP. Unit Setting</string>
+	<string name="AlarmValueSetup">Alarm Value Setting</string>
+	<string name="ReplaceTheTireSensor">Replace Tire Sensor</string>
+	<string name="TireSwap">Tire Swap</string>
+	
+	<string name="SystemSetup">System Setting</string>
+	<string name="InterfaceStyleSetup">Style Setting</string>
+	<string name="ScreenAlwaysOnSetup">AlwaysOnSetting</string>
+	<string name="LanguageSetup">Language Setting</string>
+	<string name="RestoreFactorySetup">Restore Factory</string>
+	<string name="FactoryParameter">Factory Parameter</string>
+	
+	<string name="ChangenextPic">"Change One"</string>
+	<string name="StringChangeAlter1">"Choose a tire needs to change the sensor"</string>
+	<string name="StringChangeAlter2">"Congratulations!\nsensor replaced successfully"</string>
+	<string name="StringChangeTyreInfoWarn1">"Agree to replace the tire sensor\nand generate a verification code image."</string>
+	<string name="StringVerifyAlter">Please enter\nthe verification code</string>
+	<string name="StringSearchInfo">"Searching"</string>
+	<string name="StopSearching">Stop Searching</string>
+	<string name="SearchTireErr">Search Err.</string>
+	
+	<string name="StringSelectAlter1">"Please choose the first tire"</string>
+	<string name="StringSelectAlter2">"Please choose the second tire"</string>
+	<string name="StringSelectAlter3">"Tire Swap"</string>
+	<string name="StringExchangeInfo">"swapping"</string>
+	<string name="StringCongratsInfo">"Congratulations!\n"</string>
+	<string name="StringSuccessInfo2">"whel swap on success"</string>
+	
+	<string name="StringWarnNormalPre">Standard PRESS.</string>
+	<string name="StringWarnHighPre">High PRESS. alarm value</string>
+	<string name="StringWarnLowPre">Low PRESS. alarm value</string>
+	<string name="StringWarnHighTemp">High TEMP. alarm value</string>
+	<string name="SettingRange">Setting Range:</string>
+	
+	<string name="StringValueArea">数值显示区</string>
+	<string name="StringCardArea">车体显示区</string>
+	<string name="StringWarnArea">报警显示区</string>
+	
+	<string name="StringTitleDefaultName">自定义标题栏</string>
+	
+	<!--  DeviceListActivity -->
+    <string name="scanning">scanning for devices...</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+    
+    <!--  ConnectedDeviceListActivity -->
+    <string name="title_connected_devices">Connected Devices</string>
+    <string name="select_disconnect_device">select a device to disconnect</string>
+    
+    <!--  AboutInfoActivity -->
+
+
+    <!-- Options Menu -->
+    <string name="connect">Connect a device</string>
+    <string name="discoverable">Make discoverable</string>
+    <string name="disconnect">Disconnect connection</string>
+    <string name="setting">Setting</string>
+    
+    
+    <!--  AudioStateModel -->
+    <string name="proximity_alert">Proximity alert</string>
+    
+    <!--  SettingPreferenceActivity -->
+    <string name="signal_level_pref_category">Signal level notification</string>
+    
+    <!-- Settings Menu -->
+    <string name="pref_setting">Preference setting</string>	
+    
+    
+    <string name="connect_title">choose the host type</string>
+    <string name="connect_usb">USB host</string>
+    <string name="connect_bluetooth">bluetooth host</string>
+    <string name="tech_support">Technical Support</string>
+    <string name="connect_succ">connect success!</string>
+    <string name="connect_fail">connect failed，try again!</string>
+    <string name="connect_ing">connecting</string>
+    <string name="connect_to">connect</string>
+    
+    <string name="device_disconnect">USB has unmounted</string>
+    
+    <string name="p_bar">Bar</string>
+    <string name="p_psi">PSI</string>
+    <string name="p_kpa">Kpa</string>
+	<string name="testtime">_0120</string>
+</resources>

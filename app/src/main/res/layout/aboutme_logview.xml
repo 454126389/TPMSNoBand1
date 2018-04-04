@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<LinearLayout   
+    android:id="@+id/content"   
+    android:layout_width="fill_parent"   
+    android:layout_height="fill_parent"   
+    android:orientation="vertical" 
+    android:background="@color/display_bg"
+    xmlns:android="http://schemas.android.com/apk/res/android">  
+    <!-- 标题栏 -->       
+	<include layout="@layout/setting_title"></include>
+	<!-- 标题栏 -->  
+    <LinearLayout 
+        android:layout_width="fill_parent"  
+        android:layout_height="fill_parent"  
+        android:layout_weight="1"
+        android:orientation="vertical" >  
+        <TextView
+        android:id="@+id/DebugViewLine1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:textSize="12sp" />
+		<ListView 
+		  android:layout_width="fill_parent"   
+          android:layout_height="wrap_content"  
+          android:id="@+id/ListView01" 
+          android:divider="#B0B0B0"
+          android:listSelector="@android:color/transparent"
+          android:cacheColorHint="@android:color/transparent" 
+         />  
+		
+
+    </LinearLayout>        
+	<LinearLayout android:id="@+id/content3"  
+	        android:layout_width="fill_parent"  
+	        android:layout_height="fill_parent"  
+	        android:layout_weight="5" 
+	        android:background="#00FFFFFF"
+        	android:gravity="center"
+        	android:visibility="gone">  
+
+	
+			<Button
+	            android:id="@+id/ButtonPreview"
+	            android:layout_width="wrap_content"
+	    		android:layout_height="wrap_content"
+	    		android:background="@drawable/button_shape_cancel"
+	    		android:textSize="20sp"
+	            android:text="清空日志"
+	            android:layout_marginTop="8dp" 
+	            android:layout_marginBottom="8dp"
+	            style="@style/dialog_button_text"/>
+				
+	</LinearLayout>
+
+	     
+</LinearLayout>  

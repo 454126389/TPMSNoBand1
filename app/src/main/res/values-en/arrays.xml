@@ -1,0 +1,268 @@
+<resources>
+ <string-array name="SleepTimeSet">
+	<item>On</item>
+	　　　　 　　　
+	<item>Off</item>
+</string-array>
+	- <string-array name="LanguageSet">
+	<item>系统语言</item>
+	<item>简体中文</item>
+	　
+	<item>English</item>
+</string-array>
+	- <string-array name="tyreItem">
+	<item>L.F</item>
+	<item>R.F</item>
+	　
+	<item>L.R</item>
+	<item>R.R</item>
+</string-array>
+	- <string-array name="SystemErrCode">
+	<item>成功</item>
+	<item>参数错误</item>
+	　　　　
+	<item>通信超时</item>
+	　　　　
+	<item>协议包XOR错误</item>
+	　　　　　
+	<item>空函数错误</item>
+	<item>协议头错误</item>
+	<item>*协议头错误</item>
+	<item>协议尾错误</item>
+	<item>协议长度错误</item>
+	<item>解密错误</item>
+	<item>握手失败</item>
+	<item>函数调用超时</item>
+	<item>模式错误</item>
+</string-array>
+	- <string-array name="ComunicationCommand">
+	　　　　
+	<item>双机握手</item>
+	　　　 　
+	<item>系统参数设置</item>
+	　　　 　
+	<item>系统参数获取</item>
+	　
+	<item>TPMS轮胎对调</item>
+	<item>TPMS信息上报</item>
+	<item>TPMS轮胎ID获取</item>
+	<item>TPMS主机模式切换</item>
+	<item>版本号查看</item>
+	<item>TPMS自动搜索配对轮胎</item>
+	<item>TPMS轮胎自动配对</item>
+</string-array>
+	- <string-array name="diaryLogCommand">
+	　　　　
+	<item>系统参数设置</item>
+	　　　 　
+	<item>系统参数获取</item>
+	<item>TPMS信息上报</item>
+</string-array>
+	- <string-array name="carBrand">
+	<item>German brand</item>
+	<item>JPNandKOR brand</item>
+	<item>American brand</item>
+	　
+	<item>European brand</item>
+	<item>Chinese brand</item>
+</string-array>
+	- <string-array name="GerBrand">
+	<item>Audi</item>
+	<item>BMW</item>
+	<item>Mercedes-Benz</item>
+	　
+	<item>Porsche</item>
+	<item>BRABUS</item>
+	<item>Volkswagen</item>
+	<item>MINI</item>
+	　　
+	<item>Maybach</item>
+	<item>OPEL</item>
+	<item>Smart</item>
+	<item>Seat</item>
+</string-array>
+	- <string-array name="JanKoreaBrand">
+	<item>Honda</item>
+	<item>Toyota</item>
+	<item>SUZUKI</item>
+	　
+	<item>LEXUS</item>
+	<item>MAZDA</item>
+	<item>Acura</item>
+	<item>NISSAN</item>
+	<item>Mitsubishi Motors</item>
+	　
+	<item>SUBARU</item>
+	<item>Infiniti</item>
+	<item>SSANG YONG Motor</item>
+	<item>Hyundai</item>
+</string-array>
+	- <string-array name="AmeriBrand">
+	<item>Buick</item>
+	<item>Dodge</item>
+	<item>Ford</item>
+	　
+	<item>GMC</item>
+	<item>Hummer</item>
+	<item>Jeep</item>
+	<item>Cadillac</item>
+	<item>Chrysler</item>
+	　
+	<item>Lincoln</item>
+	<item>Chevrolet</item>
+	<item>Star</item>
+</string-array>
+	- <string-array name="EuropeBrand">
+	<item>Peugeot</item>
+	<item>DS</item>
+	<item>Renault</item>
+	　
+	<item>Citroen</item>
+	<item>AstonMartin</item>
+	<item>Bentley</item>
+	<item>Jaguar</item>
+	<item>Landrover</item>
+	　
+	<item>Rolls-Royce</item>
+	<item>Lotus</item>
+	<item>Mclaren</item>
+	<item>Alfa Romeo</item>
+	<item>BUGATTI</item>
+	　
+	<item>F.I.A.T.</item>
+	<item>Ferrari</item>
+	<item>Lamborghini</item>
+	<item>LANCIA</item>
+	　
+	<item>Maserati</item>
+	<item>NAVECO</item>
+	<item>Koenigsegg</item>
+	<item>SAAB</item>
+	<item>Volvo</item>
+	　
+	<item>Skoda</item>
+</string-array>
+	- <string-array name="AutonomyBrand">
+	<item>BYD</item>
+	<item>北京汽车</item>
+	<item>奔腾</item>
+	　
+	<item>北汽制造</item>
+	<item>宝骏</item>
+	<item>北汽威旺</item>
+	<item>宝龙</item>
+	<item>Great Wall</item>
+	　
+	<item>长安轿车</item>
+	<item>长安商用</item>
+	<item>长丰</item>
+	<item>昌河</item>
+	<item>东南</item>
+	　
+	<item>东风风行</item>
+	<item>东风</item>
+	<item>东风风神</item>
+	<item>大通</item>
+	<item>大迪</item>
+	　
+	<item>福田</item>
+	　　　　
+	<item>福迪</item>
+	<item>富奇</item>
+	　　　　
+	<item>广汽</item>
+	　　　　　
+	<item>广汽吉奥</item>
+	　　　　
+	<item>广汽日野</item>
+	<item>海马</item>
+	<item>华泰</item>
+	　　　　
+	<item>哈飞</item>
+	　　　　　
+	<item>海马商用车</item>
+	<item>黄海</item>
+	　　　　
+	<item>华普</item>
+	　　　　
+	<item>红旗</item>
+	　　　　　
+	<item>海格</item>
+	　　　　
+	<item>汇众</item>
+	<item>横天汽车</item>
+	　　　　
+	<item>航天圆通</item>
+	　　　　
+	<item>江淮</item>
+	　　　　　
+	<item>吉利全球鹰</item>
+	　　　　
+	<item>吉利帝豪</item>
+	<item>吉利英伦</item>
+	　　　　
+	<item>金杯</item>
+	　　　　
+	<item>江铃</item>
+	　　　　　
+	<item>江南</item>
+	　　　　
+	<item>金龙联合</item>
+	<item>俊风</item>
+	　　　　
+	<item>九龙</item>
+	　　　　　
+	<item>开瑞</item>
+	　　　　
+	<item>莲花</item>
+	<item>力帆</item>
+	<item>陆风</item>
+	　　　　
+	<item>理念</item>
+	　　　　　
+	<item>MG</item>
+	<item>美亚</item>
+	　　　　
+	<item>纳智捷</item>
+	　　　　
+	<item>欧朗</item>
+	　　　　　
+	<item>奇瑞</item>
+	　　　　
+	<item>启辰</item>
+	<item>庆铃</item>
+	　　　　
+	<item>荣威</item>
+	　　　　
+	<item>瑞麟</item>
+	　　　　　
+	<item>双环</item>
+	　　　　
+	<item>天马</item>
+	<item>五菱</item>
+	　　　　
+	<item>威麟</item>
+	　　　　
+	<item>新凯</item>
+	　　　　　
+	<item>新大地</item>
+	　　　　
+	<item>一汽</item>
+	<item>野马</item>
+	　　　　
+	<item>永源</item>
+	　　　　　
+	<item>宇通</item>
+	　　　　
+	<item>友谊客车</item>
+	<item>中华</item>
+	<item>众泰</item>
+	　　　　
+	<item>中兴</item>
+	　　　　　
+	<item>中欧</item>
+	<item>中客华北</item>
+	　　　　　
+	<item>中顺</item>
+</string-array>
+</resources>

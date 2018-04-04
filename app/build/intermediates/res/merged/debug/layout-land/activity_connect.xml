@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    android:id="@+id/listframe"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <ImageView
+            android:id="@+id/main_bg_center2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/newmain_bg_center" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone"
+            android:layout_toLeftOf="@id/main_bg_center2"
+            android:background="@drawable/newmain_bg_center" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone"
+            android:layout_toRightOf="@id/main_bg_center2"
+            android:background="@drawable/newmain_bg_center" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_margin="50dp"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/StringValueArea"
+            android:scaleType="centerInside"
+            android:src="@drawable/newmain_car" />
+
+        <ImageView
+            android:layout_width="@dimen/btn_size_max2"
+            android:layout_height="@dimen/btn_size_max2"
+            android:layout_alignParentRight="true"
+            android:layout_margin="10dp"
+            android:visibility="gone"
+            android:src="@drawable/main_menu" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/translucent"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:alpha="0.9"
+            android:background="@drawable/bg_white" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:id="@+id/all_ll"
+                android:minWidth="300dp"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/conn_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="50dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="20dp"
+                    android:text="@string/connect_title"
+                    android:textColor="@color/theme_color"
+                    android:textSize="30sp" />
+
+                <RadioGroup
+                    android:id="@+id/conn_typeContent"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:orientation="vertical" >
+
+                    <RadioButton
+                        android:id="@+id/conn_usb"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:button="@drawable/radio_selector"
+                        android:text="@string/connect_usb"
+                        android:textSize="25sp"
+                        android:textColor="@color/theme_color" />
+
+                    <RadioButton
+                        android:id="@+id/conn_bluetooth"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:button="@drawable/radio_selector"
+                        android:text="@string/connect_bluetooth"
+                        android:textSize="25sp"
+                        android:textColor="@color/theme_color" />
+                </RadioGroup>
+
+                <RelativeLayout
+                    android:id="@+id/conn_resultC"
+                    android:layout_width="wrap_content"
+                    android:visibility="gone"
+                    android:layout_height="@dimen/btn_size_max2" >
+
+                    <ImageView
+                        android:id="@+id/conn_img"
+                        android:layout_width="@dimen/btn_size_mid"
+                        android:layout_height="@dimen/btn_size_mid"
+                        android:layout_centerInParent="true"
+                        android:src="@drawable/icon_loading" />
+                </RelativeLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/conn_confirm"
+                        style="@style/button_dialog_theme"
+                        android:onClick="confirm"
+                        android:textSize="25sp"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="@string/confirm" />
+
+                    <Button
+                        android:visibility="gone"
+                        android:id="@+id/conn_cancel"
+                        style="@style/button_dialog_theme_cancel"
+                        android:layout_marginLeft="20dp"
+                        android:onClick="cancel"
+                        android:textSize="25sp"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="@string/Cancel" />
+                </LinearLayout>
+
+                <View
+                    style="@style/divider_h"
+                    android:layout_marginTop="10dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/title_height"
+                    android:clickable="true"
+                    android:gravity="center"
+                    android:onClick="support"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/tech_support"
+                        android:textColor="@color/theme_color"
+                        android:textSize="30sp" />
+
+                    <ImageView
+                        android:visibility="gone"
+                        android:layout_width="@dimen/btn_size_mid"
+                        android:layout_height="@dimen/btn_size_mid"
+                        android:layout_marginLeft="10dp"
+                        android:src="@drawable/card_arrow" />
+                </LinearLayout>
+            </LinearLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+
+</FrameLayout>

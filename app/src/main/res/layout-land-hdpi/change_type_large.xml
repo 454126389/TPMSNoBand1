@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/contentall"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <ImageView
+            android:id="@+id/main_bg_center"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/newmain_bg_center" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#00FFFFFF"
+        android:orientation="horizontal" >
+
+        <!-- 中心车体位置 -->
+
+        <RelativeLayout
+            android:id="@+id/CardView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/title_height"
+            android:contentDescription="@string/StringCardArea" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="40dp"
+                android:adjustViewBounds="true"
+                android:scaleType="fitCenter"
+                android:src="@drawable/simple_car" />
+
+            <ImageView
+                android:id="@+id/WarnIconImage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:contentDescription="@string/StringValueArea" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/contentvalue"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_centerInParent="true"
+            android:contentDescription="@string/StringCardArea" >
+
+            <LinearLayout
+                android:id="@+id/contentValueall"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:id="@+id/contentTop"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="90dp"
+                    android:gravity="center"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:id="@+id/TitleText"
+                        style="@style/main_value_view"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:textColor="#FFFFFF"
+                        android:text="dddd"
+                        android:textSize="18sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/contentValue"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="2"
+                    android:baselineAligned="false"
+                    android:orientation="horizontal" >
+
+                    <!-- 左侧内容 -->
+
+                    <LinearLayout
+                        android:id="@+id/contentLeft"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1"
+                        android:orientation="vertical" >
+
+                        <!-- 左上侧内容 -->
+
+                        <LinearLayout
+                            android:id="@+id/contentLeftTop"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:layout_weight="1"
+                            android:gravity="center_horizontal|top"
+                            android:orientation="vertical" >
+
+                            <LinearLayout
+                                android:id="@+id/contentLFValue"
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:orientation="vertical" >
+
+                                <LinearLayout
+                                    android:id="@+id/contentLFPress"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="center"
+                                    android:orientation="horizontal" >
+
+                                    <TextView
+                                        android:id="@+id/LFPressText"
+                                        style="@style/main_value_view"
+                                        android:layout_width="fill_parent"
+                                        android:layout_height="fill_parent"
+                                        android:layout_weight="1"
+                                        android:gravity="center"
+                                        android:textColor="#FFFFFF"
+                                        android:textSize="27sp" />
+
+                                    <TextView
+                                        android:id="@+id/LFPressTitle"
+                                        style="@style/main_value_view"
+                                        android:layout_width="fill_parent"
+                                        android:layout_height="fill_parent"
+                                        android:layout_weight="2"
+                                        android:gravity="center"
+                                        android:paddingRight="2dp"
+                                        android:textColor="#FFFFFF"
+                                        android:textSize="12sp" />
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:id="@+id/contentLFTemp"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="center_vertical"
+                                    android:orientation="horizontal" >
+
+                                    <TextView
+                                        android:id="@+id/LFTempText"
+                                        style="@style/main_value_view"
+                                        android:layout_width="fill_parent"
+                                        android:layout_height="wrap_content"
+                                        android:layout_weight="1"
+                                        android:gravity="center"
+                                        android:textColor="@color/display_text"
+                                        android:textSize="17sp" />
+
+                                    <TextView
+                                        android:id="@+id/LFTempTitle"
+                                        style="@style/main_value_view"
+                                        android:layout_width="fill_parent"
+                                        android:layout_height="wrap_content"
+                                        android:layout_weight="2"
+                                        android:gravity="center"
+                                        android:textColor="#FFFFFF"
+                                        android:textSize="14sp"
+                                        android:visibility="gone" />
+                                </LinearLayout>
+                            </LinearLayout>
+
+                            <ImageView
+                                android:id="@+id/ImageLFMarkView"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:background="@drawable/icon_mark1"
+                                android:contentDescription="@string/StringValueArea"
+                                android:orientation="vertical"
+                                android:scaleType="centerInside"
+                                android:visibility="gone" />
+
+                            <ImageView
+                                android:id="@+id/ImageLFTyreView"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:contentDescription="@string/StringValueArea"
+                                android:scaleType="centerInside"
+                                android:src="@drawable/icon_tyre1" />
+                        </LinearLayout>
+
+                        <!-- 左下侧内容 -->
+
+                        <LinearLayout
+                            android:id="@+id/contentLeftBottom"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:layout_marginTop="10dp"
+                            android:layout_weight="1"
+                            android:gravity="center_horizontal|bottom"
+                            android:orientation="vertical" >
+
+                            <ImageView
+                                android:id="@+id/ImageLBMarkView"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:background="@drawable/icon_mark1"
+                                android:contentDescription="@string/StringValueArea"
+                                android:orientation="vertical"
+                                android:scaleType="centerInside"
+                                android:visibility="gone" />
+
+                            <ImageView
+                                android:id="@+id/ImageLBTyreView"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:contentDescription="@string/StringValueArea"
+                                android:scaleType="centerInside"
+                                android:src="@drawable/icon_tyre1" />
+
+                            <LinearLayout
+                                android:id="@+id/contentLBValue"
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:orientation="vertical" >
+
+                                <LinearLayout
+                                    android:id="@+id/contentLBTemp"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="center_vertical"
+                                    android:orientation="horizontal" >
+
+                                    <TextView
+                                        android:id="@+id/LBTempText"
+                                        style="@style/main_value_view"
+                                        android:layout_width="fill_parent"
+                                        android:layout_height="wrap_content"
+                                        android:layout_weight="1"
+                                        android:gravity="center"
+                                        android:textColor="@color/display_text"
+                                        android:textSize="17sp" />
+
+                                    <TextView
+                                        android:id="@+id/LBTempTitle"
+                                        style="@style/main_value_view"
+                                        android:layout_width="fill_parent"
+                                        android:layout_height="wrap_content"
+                                        android:layout_weight="2"
+                                        android:gravity="center"
+                                        android:textColor="#FFFFFF"
+                                        android:textSize="14sp"
+                                        android:visibility="gone" />
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:id="@+id/contentLBPress"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="horizontal" >
+
+                                    <TextView
+                                        android:id="@+id/LBPressText"
+                                        style="@style/main_value_view"
+                                        android:layout_width="fill_parent"
+                                        android:layout_height="fill_parent"
+                                        android:layout_weight="1"
+                                        android:gravity="center"
+                                        android:textColor="#FFFFFF"
+                                        android:textSize="27sp" />
+
+                                    <TextView
+                                        android:id="@+id/LBPressTitle"
+                                        style="@style/main_value_view"
+                                        android:layout_width="fill_parent"
+                                        android:layout_height="fill_parent"
+                                        android:layout_weight="2"
+                                        android:gravity="center"
+                                        android:paddingRight="2dp"
+                                        android:textColor="#FFFFFF"
+                                        android:textSize="12sp" />
+                                </LinearLayout>
+                            </LinearLayout>
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <!-- 中间内容 -->
+
+                    <LinearLayout
+                        android:id="@+id/contentMiddle"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1"
+                        android:orientation="horizontal" >
+                    </LinearLayout>
+
+                    <!-- 右侧内容 -->
+
+                    <LinearLayout
+                        android:id="@+id/contentRight"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1"
+                        android:orientation="vertical" >
+
+                        <!-- 右上侧内容 -->
+
+                        <LinearLayout
+                            android:id="@+id/contentRightTop"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:layout_weight="1"
+                            android:gravity="center_horizontal|top"
+                            android:orientation="vertical" >
+
+                            <LinearLayout
+                                android:id="@+id/contentRFValue"
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:orientation="vertical" >
+
+                                <LinearLayout
+                                    android:id="@+id/contentRFPress"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="horizontal" >
+
+                                    <TextView
+                                        android:id="@+id/RFPressText"
+                                        style="@style/main_value_view"
+                                        android:layout_width="fill_parent"
+                                        android:layout_height="fill_parent"
+                                        android:layout_weight="1"
+                                        android:gravity="center"
+                                        android:textColor="#FFFFFF"
+                                        android:textSize="27sp" />
+
+                                    <TextView
+                                        android:id="@+id/RFPressTitle"
+                                        style="@style/main_value_view"
+                                        android:layout_width="fill_parent"
+                                        android:layout_height="fill_parent"
+                                        android:layout_weight="2"
+                                        android:gravity="center"
+                                        android:paddingRight="2dp"
+                                        android:textColor="#FFFFFF"
+                                        android:textSize="12sp" />
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:id="@+id/contentRFTemp"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="center_vertical"
+                                    android:orientation="horizontal" >
+
+                                    <TextView
+                                        android:id="@+id/RFTempText"
+                                        style="@style/main_value_view"
+                                        android:layout_width="fill_parent"
+                                        android:layout_height="wrap_content"
+                                        android:layout_weight="1"
+                                        android:gravity="center"
+                                        android:textColor="@color/display_text"
+                                        android:textSize="17sp" />
+
+                                    <TextView
+                                        android:id="@+id/RFTempTitle"
+                                        style="@style/main_value_view"
+                                        android:layout_width="fill_parent"
+                                        android:layout_height="wrap_content"
+                                        android:layout_weight="2"
+                                        android:gravity="center"
+                                        android:textColor="#FFFFFF"
+                                        android:textSize="14sp"
+                                        android:visibility="gone" />
+                                </LinearLayout>
+                            </LinearLayout>
+
+                            <ImageView
+                                android:id="@+id/ImageRFMarkView"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:background="@drawable/icon_mark1"
+                                android:contentDescription="@string/StringValueArea"
+                                android:orientation="vertical"
+                                android:scaleType="centerInside"
+                                android:visibility="gone" />
+
+                            <ImageView
+                                android:id="@+id/ImageRFTyreView"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:contentDescription="@string/StringValueArea"
+                                android:scaleType="centerInside"
+                                android:src="@drawable/icon_tyre1" />
+                        </LinearLayout>
+                        <!-- 右下侧内容 -->
+
+                        <LinearLayout
+                            android:id="@+id/contentRightBottom"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:layout_marginTop="10dp"
+                            android:layout_weight="1"
+                            android:gravity="center_horizontal|bottom"
+                            android:orientation="vertical" >
+
+                            <ImageView
+                                android:id="@+id/ImageRBMarkView"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:background="@drawable/icon_mark1"
+                                android:contentDescription="@string/StringValueArea"
+                                android:orientation="vertical"
+                                android:scaleType="centerInside"
+                                android:visibility="gone" />
+
+                            <ImageView
+                                android:id="@+id/ImageRBTyreView"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:contentDescription="@string/StringValueArea"
+                                android:scaleType="centerInside"
+                                android:src="@drawable/icon_tyre1" />
+
+                            <LinearLayout
+                                android:id="@+id/contentRBValue"
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:orientation="vertical" >
+
+                                <LinearLayout
+                                    android:id="@+id/contentRBTemp"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="center_vertical"
+                                    android:orientation="horizontal" >
+
+                                    <TextView
+                                        android:id="@+id/RBTempText"
+                                        style="@style/main_value_view"
+                                        android:layout_width="fill_parent"
+                                        android:layout_height="wrap_content"
+                                        android:layout_weight="1"
+                                        android:gravity="center"
+                                        android:textColor="@color/display_text"
+                                        android:textSize="17sp" />
+
+                                    <TextView
+                                        android:id="@+id/RBTempTitle"
+                                        style="@style/main_value_view"
+                                        android:layout_width="fill_parent"
+                                        android:layout_height="wrap_content"
+                                        android:layout_weight="2"
+                                        android:gravity="center"
+                                        android:textColor="#FFFFFF"
+                                        android:textSize="14sp"
+                                        android:visibility="gone" />
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:id="@+id/contentRBPress"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="horizontal" >
+
+                                    <TextView
+                                        android:id="@+id/RBPressText"
+                                        style="@style/main_value_view"
+                                        android:layout_width="fill_parent"
+                                        android:layout_height="fill_parent"
+                                        android:layout_weight="1"
+                                        android:gravity="center"
+                                        android:textColor="#FFFFFF"
+                                        android:textSize="27sp" />
+
+                                    <TextView
+                                        android:id="@+id/RBPressTitle"
+                                        style="@style/main_value_view"
+                                        android:layout_width="fill_parent"
+                                        android:layout_height="fill_parent"
+                                        android:layout_weight="2"
+                                        android:gravity="center"
+                                        android:paddingRight="2dp"
+                                        android:textColor="#FFFFFF"
+                                        android:textSize="12sp" />
+                                </LinearLayout>
+                            </LinearLayout>
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/contentBottom"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="5"
+                    android:gravity="center"
+                    android:orientation="horizontal" >
+
+                    <ImageView
+                        android:id="@+id/ImageTyreSw"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:contentDescription="@string/StringValueArea"
+                        android:scaleType="centerInside"
+                        android:src="@drawable/icon_sw"
+                        android:visibility="gone" />
+                </LinearLayout>
+            </LinearLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+    <!-- 标题栏 -->
+
+    <include layout="@layout/setting_title" >
+    </include>
+    <!-- 标题栏 -->
+
+</FrameLayout>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hongking.oemtpms"
+    android:launchMode="singleTop"
+    android:versionCode="4"
+    android:versionName="V1.0.2" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="18" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.permission.RECEIVE_USER_PRESENT" />
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <uses-feature android:name="android.hardware.usb.host" />
+
+    <uses-permission android:name="android.permission.GET_TASKS" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:resizeable="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <application
+        android:name="com.hongking.hktpms.SysApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher1"
+        android:label="@string/app_name"
+        android:persistent="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.hongking.hktpms.AppEntryActivity"
+            android:configChanges="locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTop" />
+        <activity
+            android:name="com.hongking.hktpms.GuidanceActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="landscape" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.hongking.hktpms.ConnectTestActivity"
+            android:configChanges="locale"
+            android:label="" />
+        <activity
+            android:name="com.hongking.hktpms.ConnectTestActivity2"
+            android:configChanges="locale"
+            android:label="" />
+        <activity
+            android:name="com.hongking.hktpms.ConnectChooseActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="landscape" >
+            <intent-filter>
+                <action android:name="tpmsApp" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <!--  -->
+        <activity
+            android:name="com.hongking.hktpms.AppMainActivity"
+            android:configChanges="locale"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.hongking.hktpms.First_Act"
+            android:configChanges="locale"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape" >
+            <intent-filter>
+                <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.hardware.usb.action." />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED"
+                android:resource="@xml/device_filter" />
+        </activity>
+        <activity
+            android:name="com.hongking.hktpms.MainDisplayActivity"
+            android:configChanges="locale"
+            android:label="世纪鸿进无线胎压监测"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.hongking.hktpms.SetActivity"
+            android:configChanges="locale"
+            android:label="设置"
+            android:screenOrientation="landscape" />
+        <!--
+             activity 
+            android:name="com.hongking.hktpms.InfoActivity"
+             android:label="资讯" 
+             android:configChanges = "locale"
+             android:screenOrientation = "nosensor"
+        -->
+
+        <activity
+            android:name="com.hongking.hktpms.SetWarnSubActivity"
+            android:configChanges="locale"
+            android:label="报警设置" />
+        <activity
+            android:name="com.hongking.hktpms.SetSensorChangeActivity"
+            android:configChanges="locale"
+            android:label="更换轮胎传感器" />
+        <activity
+            android:name="com.hongking.hktpms.SetSensorExchangeActivity"
+            android:configChanges="locale"
+            android:label="交换轮胎" />
+        <activity
+            android:name="com.hongking.hktpms.SetThemeActivity"
+            android:configChanges="locale"
+            android:label="主题设置" />
+        <activity
+            android:name="com.hongking.hktpms.SetThemePreviewActivity"
+            android:configChanges="locale"
+            android:label="主题预览" />
+        <activity
+            android:name="com.hongking.hktpms.TPMSListViewActivity"
+            android:configChanges="locale"
+            android:label="调试窗口" />
+        <activity
+            android:name="com.hongking.hktpms.AboutMeSoftRegisterActivity"
+            android:configChanges="locale"
+            android:label="软件注册" />
+        <activity
+            android:name="com.hongking.hktpms.AboutMeRightInfoActivity"
+            android:configChanges="locale"
+            android:label="版权信息" />
+        <activity
+            android:name="com.hongking.hktpms.AboutMeAfterSaleSupportActivity"
+            android:configChanges="locale"
+            android:label="售后支持信息" />
+        <activity
+            android:name="com.hongking.hktpms.AboutMeRecordCatActivity"
+            android:configChanges="locale"
+            android:label="日志记录查看" />
+        <!--
+            activity 
+	      	android:name="com.hongking.hktpms.InfoWebViewActivity" 
+	      	android:label="资讯查看" 
+	      	android:configChanges = "locale"
+        -->
+
+        <activity
+            android:name="com.hongking.hktpms.SetupActivity"
+            android:configChanges="locale"
+            android:label="系统初始化" />
+        <activity
+            android:name="com.hongking.hktpms.BlueSetupActivity"
+            android:configChanges="locale"
+            android:label="蓝牙设置" />
+        <activity
+            android:name="com.hongking.hktpms.AppSimulateActivity"
+            android:configChanges="locale"
+            android:label="模拟体验" />
+        <activity
+            android:name="com.hongking.hktpms.BluetoothConn"
+            android:label="蓝牙测试" />
+        <activity
+            android:name="com.hongking.hktpms.BluetoothDeviceListActivity"
+            android:configChanges="locale"
+            android:label="@string/select_device"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name="com.hongking.hktpms.BluetoothConnectedDeviceListActivity"
+            android:configChanges="locale"
+            android:label="@string/select_disconnect_device"
+            android:theme="@android:style/Theme.Dialog" />
+
+        <service
+            android:name="com.hongking.hktpms.SysControllerService"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="SEND_MSG_FROM_BT_ACTION" />
+                <action android:name="CONNECT_REQUEST_ACTION" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.hongking.hktpms.UsbControllerService"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="SEND_MSG_FROM_USB_ACTION" />
+                <action android:name="CONNECT_REQUEST_ACTION" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.hongking.hktpms.SysManagerService"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="AUTO_SW_MAINPAGE" />
+            </intent-filter>
+        </service>
+
+        <!--
+        <receiver android:name="com.hongking.hktpms.BootBroadcastReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        -->
+
+        <receiver android:name="com.hongking.hktpms.PowerBroadcastReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.ACTION_SHUTDOWN" />
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.hongkingtest" />
+                <action android:name="hongkingtest" />
+                <action android:name="com.android.action_acc_on" />
+                <action android:name="com.android.action_acc_off" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

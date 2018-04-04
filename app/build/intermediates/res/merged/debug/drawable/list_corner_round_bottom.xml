@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<selector xmlns:android = "http://schemas.android.com/apk/res/android"> 
+	<item 
+	    android:state_pressed = "true" 
+		android:drawable = "@color/display_touch"> 	
+			
+	</item> 
+	
+	<item > 
+	    <shape xmlns:android="http://schemas.android.com/apk/res/android"
+	        android:shape="rectangle">
+ 			<stroke
+        	    android:width="0px"
+        	    android:color="#B0B0B0"
+        	/>
+    		<gradient 
+    		    android:startColor="#262626" 
+        		android:endColor="#262626" 
+        		android:angle="270"
+        	/>
+    		
+		</shape>  	 		
+	</item> 
+</selector> 

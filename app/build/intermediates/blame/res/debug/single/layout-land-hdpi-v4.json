@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land-hdpi-v4\\set_simple_dialogden15.xml",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\layout-land-hdpi\\set_simple_dialogden15.xml"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land-hdpi-v4\\aboutme_rightinfoden15.xml",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\layout-land-hdpi\\aboutme_rightinfoden15.xml"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land-hdpi-v4\\main_srcollden15.xml",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\layout-land-hdpi\\main_srcollden15.xml"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land-hdpi-v4\\changechuanganqi_large.xml",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\layout-land-hdpi\\changechuanganqi_large.xml"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land-hdpi-v4\\changechuanganqi_small.xml",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\layout-land-hdpi\\changechuanganqi_small.xml"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land-hdpi-v4\\pop_pressureden15.xml",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\layout-land-hdpi\\pop_pressureden15.xml"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land-hdpi-v4\\list_type1den15.xml",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\layout-land-hdpi\\list_type1den15.xml"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land-hdpi-v4\\dialog_main_moveback.xml",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\layout-land-hdpi\\dialog_main_moveback.xml"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land-hdpi-v4\\pop_tip2den15.xml",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\layout-land-hdpi\\pop_tip2den15.xml"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land-hdpi-v4\\pop_value_setden15.xml",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\layout-land-hdpi\\pop_value_setden15.xml"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land-hdpi-v4\\act_setting_secondden15.xml",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\layout-land-hdpi\\act_setting_secondden15.xml"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land-hdpi-v4\\display_viewsby854480.xml",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\layout-land-hdpi\\display_viewsby854480.xml"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land-hdpi-v4\\display_viewsmall.xml",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\layout-land-hdpi\\display_viewsmall.xml"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land-hdpi-v4\\change_type_small.xml",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\layout-land-hdpi\\change_type_small.xml"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land-hdpi-v4\\pop_temperatureden15.xml",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\layout-land-hdpi\\pop_temperatureden15.xml"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land-hdpi-v4\\setting_titleden15.xml",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\layout-land-hdpi\\setting_titleden15.xml"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land-hdpi-v4\\set_wait_dialogden15.xml",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\layout-land-hdpi\\set_wait_dialogden15.xml"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land-hdpi-v4\\settingden15.xml",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\layout-land-hdpi\\settingden15.xml"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land-hdpi-v4\\pop_conn.xml",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\layout-land-hdpi\\pop_conn.xml"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land-hdpi-v4\\change_type_large.xml",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\layout-land-hdpi\\change_type_large.xml"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land-hdpi-v4\\set_custom_dialogden15.xml",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\layout-land-hdpi\\set_custom_dialogden15.xml"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land-hdpi-v4\\main_srcoll.xml",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\layout-land-hdpi\\main_srcoll.xml"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land-hdpi-v4\\display_view.xml",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\layout-land-hdpi\\display_view.xml"
+    },
+    {
+        "merged": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land-hdpi-v4\\changechuanganqi_largeden15.xml",
+        "source": "E:\\TPMS_201702101329\\TPMSNoBand1\\app\\src\\main\\res\\layout-land-hdpi\\changechuanganqi_largeden15.xml"
+    }
+]
